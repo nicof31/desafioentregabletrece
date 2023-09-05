@@ -1,0 +1,1179 @@
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-08-26T14:01:11.883Z","timestamp":"2023-08-26T14:01:11.883Z"}
+{"level":"error","message":"UNAUTHORIZED ERROR - Credenciales inválidas","timestamp":"2023-08-26T14:01:12.029Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/ - time: 2023-08-26T14:01:43.257Z","timestamp":"2023-08-26T14:01:43.257Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-08-26T14:02:00.742Z","timestamp":"2023-08-26T14:02:00.742Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-08-26T14:02:00.910Z","timestamp":"2023-08-26T14:02:00.910Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-08-26T14:02:17.948Z","timestamp":"2023-08-26T14:02:17.948Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369ca - time: 2023-08-26T14:02:23.682Z","timestamp":"2023-08-26T14:02:23.682Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos CastError: Cast to ObjectId failed for value \"64d6918281b7b7f0b2d9369ca\" (type string) at path \"_id\" for model \"carts\"","timestamp":"2023-08-26T14:02:23.692Z"}
+{"level":"info","message":"Method: GET, url: /api/logger/loggerTest - time: 2023-08-26T14:03:04.240Z","timestamp":"2023-08-26T14:03:04.240Z"}
+{"level":"fatal","message":"FATAL => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: fatal","timestamp":"2023-08-26T14:03:04.241Z"}
+{"level":"error","message":"ERROR => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: error","timestamp":"2023-08-26T14:03:04.242Z"}
+{"level":"warning","message":"WARNING => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: warning","timestamp":"2023-08-26T14:03:04.242Z"}
+{"level":"info","message":"INFO => Sat Aug 26 2023 11:03:04 GMT-0300 (hora estándar de Argentina) - LoggerType: info","timestamp":"2023-08-26T14:03:04.243Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T15:38:08.614Z","timestamp":"2023-08-31T15:38:08.614Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-08-31T15:38:08.704Z","timestamp":"2023-08-31T15:38:08.704Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T15:38:48.544Z","timestamp":"2023-08-31T15:38:48.544Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T16:47:50.297Z","timestamp":"2023-08-31T16:47:50.297Z"}
+{"level":"info","message":"Method: GET, url: /emailrecover - time: 2023-08-31T16:47:54.220Z","timestamp":"2023-08-31T16:47:54.220Z"}
+{"level":"info","message":"Method: GET, url: /emailrecover - time: 2023-08-31T16:55:34.857Z","timestamp":"2023-08-31T16:55:34.857Z"}
+{"level":"info","message":"Method: GET, url: /emailrecover - time: 2023-08-31T16:56:02.192Z","timestamp":"2023-08-31T16:56:02.192Z"}
+{"level":"info","message":"Method: GET, url: /emailrecover - time: 2023-08-31T16:59:46.092Z","timestamp":"2023-08-31T16:59:46.092Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:00:01.472Z","timestamp":"2023-08-31T17:00:01.472Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:00:02.675Z","timestamp":"2023-08-31T17:00:02.675Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:14:08.140Z","timestamp":"2023-08-31T17:14:08.140Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:14:57.150Z","timestamp":"2023-08-31T17:14:57.150Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:15:08.229Z","timestamp":"2023-08-31T17:15:08.229Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:18:44.400Z","timestamp":"2023-08-31T17:18:44.401Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:18:45.693Z","timestamp":"2023-08-31T17:18:45.693Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:18:53.894Z","timestamp":"2023-08-31T17:18:53.894Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:19:41.900Z","timestamp":"2023-08-31T17:19:41.900Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:19:43.208Z","timestamp":"2023-08-31T17:19:43.208Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:20:49.099Z","timestamp":"2023-08-31T17:20:49.099Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:20:50.380Z","timestamp":"2023-08-31T17:20:50.380Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:20:52.170Z","timestamp":"2023-08-31T17:20:52.170Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:21:58.628Z","timestamp":"2023-08-31T17:21:58.628Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:21:58.634Z","timestamp":"2023-08-31T17:21:58.634Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:21:59.185Z","timestamp":"2023-08-31T17:21:59.186Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:22:03.079Z","timestamp":"2023-08-31T17:22:03.079Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:22:49.382Z","timestamp":"2023-08-31T17:22:49.382Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:22:49.432Z","timestamp":"2023-08-31T17:22:49.432Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:22:53.080Z","timestamp":"2023-08-31T17:22:53.080Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:23:01.184Z","timestamp":"2023-08-31T17:23:01.184Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:23:01.188Z","timestamp":"2023-08-31T17:23:01.188Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:26:35.674Z","timestamp":"2023-08-31T17:26:35.674Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:26:48.529Z","timestamp":"2023-08-31T17:26:48.529Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:26:51.168Z","timestamp":"2023-08-31T17:26:51.168Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:26:52.472Z","timestamp":"2023-08-31T17:26:52.472Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:28:16.536Z","timestamp":"2023-08-31T17:28:16.536Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:28:31.571Z","timestamp":"2023-08-31T17:28:31.571Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:28:36.721Z","timestamp":"2023-08-31T17:28:36.722Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:28:42.781Z","timestamp":"2023-08-31T17:28:42.781Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T17:29:20.597Z","timestamp":"2023-08-31T17:29:20.597Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T17:29:29.431Z","timestamp":"2023-08-31T17:29:29.431Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T17:29:29.438Z","timestamp":"2023-08-31T17:29:29.438Z"}
+{"level":"info","message":"Method: GET, url: /chat - time: 2023-08-31T17:30:11.084Z","timestamp":"2023-08-31T17:30:11.084Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:23:01.919Z","timestamp":"2023-08-31T18:23:01.919Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:23:29.945Z","timestamp":"2023-08-31T18:23:29.945Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:24:03.888Z","timestamp":"2023-08-31T18:24:03.888Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:24:11.256Z","timestamp":"2023-08-31T18:24:11.256Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:24:15.182Z","timestamp":"2023-08-31T18:24:15.182Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:25:08.964Z","timestamp":"2023-08-31T18:25:08.964Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:25:14.178Z","timestamp":"2023-08-31T18:25:14.178Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:25:17.661Z","timestamp":"2023-08-31T18:25:17.661Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:25:33.799Z","timestamp":"2023-08-31T18:25:33.799Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-08-31T18:25:33.861Z","timestamp":"2023-08-31T18:25:33.861Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:34:44.584Z","timestamp":"2023-08-31T18:34:44.584Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T18:35:01.229Z","timestamp":"2023-08-31T18:35:01.229Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: ewrwerw@gmail.com no existe","timestamp":"2023-08-31T18:35:01.289Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T18:35:05.110Z","timestamp":"2023-08-31T18:35:05.110Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:35:32.578Z","timestamp":"2023-08-31T18:35:32.578Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:35:36.609Z","timestamp":"2023-08-31T18:35:36.609Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:35:39.617Z","timestamp":"2023-08-31T18:35:39.617Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:39:38.576Z","timestamp":"2023-08-31T18:39:38.577Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:39:41.263Z","timestamp":"2023-08-31T18:39:41.263Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:39:55.686Z","timestamp":"2023-08-31T18:39:55.686Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:40:01.476Z","timestamp":"2023-08-31T18:40:01.476Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:40:04.838Z","timestamp":"2023-08-31T18:40:04.838Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:40:15.375Z","timestamp":"2023-08-31T18:40:15.375Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:43:41.121Z","timestamp":"2023-08-31T18:43:41.121Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDcyMDEsImV4cCI6MTY5MzUwNzQ0MX0.qCbr9QWC5KROGopNoBtIlwaJ1DOQobpAGGLjZJIpdNM - time: 2023-08-31T18:43:48.876Z","timestamp":"2023-08-31T18:43:48.876Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:43:50.330Z","timestamp":"2023-08-31T18:43:50.330Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDcyMDEsImV4cCI6MTY5MzUwNzQ0MX0.qCbr9QWC5KROGopNoBtIlwaJ1DOQobpAGGLjZJIpdNM - time: 2023-08-31T18:44:06.017Z","timestamp":"2023-08-31T18:44:06.017Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDcyMDEsImV4cCI6MTY5MzUwNzQ0MX0.qCbr9QWC5KROGopNoBtIlwaJ1DOQobpAGGLjZJIpdNM - time: 2023-08-31T18:45:20.977Z","timestamp":"2023-08-31T18:45:20.977Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:45:23.564Z","timestamp":"2023-08-31T18:45:23.564Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDcyMDEsImV4cCI6MTY5MzUwNzQ0MX0.qCbr9QWC5KROGopNoBtIlwaJ1DOQobpAGGLjZJIpdNM - time: 2023-08-31T18:45:28.620Z","timestamp":"2023-08-31T18:45:28.620Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:45:32.462Z","timestamp":"2023-08-31T18:45:32.462Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:45:37.308Z","timestamp":"2023-08-31T18:45:37.308Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:45:45.043Z","timestamp":"2023-08-31T18:45:45.043Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:45:49.340Z","timestamp":"2023-08-31T18:45:49.340Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:45:52.013Z","timestamp":"2023-08-31T18:45:52.013Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:45:59.045Z","timestamp":"2023-08-31T18:45:59.045Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:46:08.483Z","timestamp":"2023-08-31T18:46:08.483Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:46:10.973Z","timestamp":"2023-08-31T18:46:10.973Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:46:12.693Z","timestamp":"2023-08-31T18:46:12.693Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:47:53.530Z","timestamp":"2023-08-31T18:47:53.530Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T18:47:56.097Z","timestamp":"2023-08-31T18:47:56.097Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T18:48:00.444Z","timestamp":"2023-08-31T18:48:00.444Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:48:03.201Z","timestamp":"2023-08-31T18:48:03.201Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:48:26.334Z","timestamp":"2023-08-31T18:48:26.334Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:48:28.272Z","timestamp":"2023-08-31T18:48:28.272Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:50:06.591Z","timestamp":"2023-08-31T18:50:06.592Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDc2ODAsImV4cCI6MTY5MzUwNzkyMH0.nQ07VqMRQTFYpumoJ-Q9b6q2sE1ilZGo5mafuq_NpTg - time: 2023-08-31T18:50:46.537Z","timestamp":"2023-08-31T18:50:46.537Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T18:50:51.523Z","timestamp":"2023-08-31T18:50:51.523Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDc2ODAsImV4cCI6MTY5MzUwNzkyMH0.nQ07VqMRQTFYpumoJ-Q9b6q2sE1ilZGo5mafuq_NpTg - time: 2023-08-31T18:54:33.513Z","timestamp":"2023-08-31T18:54:33.513Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T18:54:35.562Z","timestamp":"2023-08-31T18:54:35.562Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDc2ODAsImV4cCI6MTY5MzUwNzkyMH0.nQ07VqMRQTFYpumoJ-Q9b6q2sE1ilZGo5mafuq_NpTg - time: 2023-08-31T19:03:37.892Z","timestamp":"2023-08-31T19:03:37.892Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:03:40.052Z","timestamp":"2023-08-31T19:03:40.052Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:18:40.764Z","timestamp":"2023-08-31T19:18:40.764Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:18:47.682Z","timestamp":"2023-08-31T19:18:47.683Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:18:51.018Z","timestamp":"2023-08-31T19:18:51.018Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:21:13.725Z","timestamp":"2023-08-31T19:21:13.725Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:21:19.280Z","timestamp":"2023-08-31T19:21:19.280Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:21:22.007Z","timestamp":"2023-08-31T19:21:22.008Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:23:23.458Z","timestamp":"2023-08-31T19:23:23.458Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:23:26.817Z","timestamp":"2023-08-31T19:23:26.817Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:24:16.276Z","timestamp":"2023-08-31T19:24:16.277Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:24:18.794Z","timestamp":"2023-08-31T19:24:18.795Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:25:57.634Z","timestamp":"2023-08-31T19:25:57.635Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:26:01.090Z","timestamp":"2023-08-31T19:26:01.090Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-08-31T19:26:01.152Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDYzMTQsImV4cCI6MTY5MzUwNjU1NH0.1_u0QQxVQ0glYF1Lb8KxpSNT6j314vDpFgF8ty6poxA - time: 2023-08-31T19:36:24.767Z","timestamp":"2023-08-31T19:36:24.768Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:36:28.027Z","timestamp":"2023-08-31T19:36:28.027Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:36:29.913Z","timestamp":"2023-08-31T19:36:29.913Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-08-31T19:41:44.634Z","timestamp":"2023-08-31T19:41:44.634Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:41:46.903Z","timestamp":"2023-08-31T19:41:46.903Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:41:48.545Z","timestamp":"2023-08-31T19:41:48.545Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:41:52.379Z","timestamp":"2023-08-31T19:41:52.379Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:41:55.113Z","timestamp":"2023-08-31T19:41:55.113Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MDk4NTYsImV4cCI6MTY5MzUxMDA5Nn0.aq_BeU-M4wfoLAu1kuuZUgwBKwlZ-e_wfTEH0kkLZYU - time: 2023-08-31T19:41:59.885Z","timestamp":"2023-08-31T19:41:59.885Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:42:01.211Z","timestamp":"2023-08-31T19:42:01.211Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MTA5MTIsImV4cCI6MTY5MzUxMTE1Mn0.RvUUbvXDixellCJlGnbPv4uNTwCFVZT8TITHYIBvRig - time: 2023-08-31T19:42:18.368Z","timestamp":"2023-08-31T19:42:18.368Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:42:57.195Z","timestamp":"2023-08-31T19:42:57.195Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:43:00.523Z","timestamp":"2023-08-31T19:43:00.523Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:44:13.183Z","timestamp":"2023-08-31T19:44:13.183Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:44:16.385Z","timestamp":"2023-08-31T19:44:16.385Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:44:19.978Z","timestamp":"2023-08-31T19:44:19.978Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MTEwNTYsImV4cCI6MTY5MzUxMTI5Nn0.Fh_Goj41tbOWMhS6I5e-mH8YYIXM-NrmzmyZWf83Iv8 - time: 2023-08-31T19:44:33.052Z","timestamp":"2023-08-31T19:44:33.052Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:44:40.421Z","timestamp":"2023-08-31T19:44:40.421Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:44:42.932Z","timestamp":"2023-08-31T19:44:42.932Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MTEwNTYsImV4cCI6MTY5MzUxMTI5Nn0.Fh_Goj41tbOWMhS6I5e-mH8YYIXM-NrmzmyZWf83Iv8 - time: 2023-08-31T19:45:33.727Z","timestamp":"2023-08-31T19:45:33.728Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:45:41.270Z","timestamp":"2023-08-31T19:45:41.270Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:45:44.030Z","timestamp":"2023-08-31T19:45:44.030Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MTEwNTYsImV4cCI6MTY5MzUxMTI5Nn0.Fh_Goj41tbOWMhS6I5e-mH8YYIXM-NrmzmyZWf83Iv8 - time: 2023-08-31T19:47:31.943Z","timestamp":"2023-08-31T19:47:31.944Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:47:43.710Z","timestamp":"2023-08-31T19:47:43.710Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-08-31T19:47:43.873Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:49:13.440Z","timestamp":"2023-08-31T19:49:13.441Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T19:49:13.622Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T19:49:32.511Z","timestamp":"2023-08-31T19:49:32.511Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T19:49:33.527Z","timestamp":"2023-08-31T19:49:33.527Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T19:49:37.897Z","timestamp":"2023-08-31T19:49:37.897Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T19:49:40.253Z","timestamp":"2023-08-31T19:49:40.253Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MTEzNzcsImV4cCI6MTY5MzUxMTYxN30.CLVUB1vjYP2ewltu5-Hi5opkkGAVi22-rJfZBACsYQk - time: 2023-08-31T19:49:51.178Z","timestamp":"2023-08-31T19:49:51.178Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:49:59.674Z","timestamp":"2023-08-31T19:49:59.674Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T19:49:59.852Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:53:34.545Z","timestamp":"2023-08-31T19:53:34.545Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T19:53:34.721Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T19:54:04.837Z","timestamp":"2023-08-31T19:54:04.837Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T19:54:05.027Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T22:44:55.266Z","timestamp":"2023-08-31T22:44:55.267Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T22:44:57.706Z","timestamp":"2023-08-31T22:44:57.706Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T22:45:02.301Z","timestamp":"2023-08-31T22:45:02.301Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T22:45:05.477Z","timestamp":"2023-08-31T22:45:05.477Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjE5MDIsImV4cCI6MTY5MzUyMjE0Mn0.xXU9q6-LRGtdCXG0y9eBbCthxdHGGKxR0m-t52X41PU - time: 2023-08-31T22:45:19.262Z","timestamp":"2023-08-31T22:45:19.262Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-08-31T22:45:19.340Z","timestamp":"2023-08-31T22:45:19.340Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:45:35.718Z","timestamp":"2023-08-31T22:45:35.718Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:45:35.931Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T22:45:37.671Z","timestamp":"2023-08-31T22:45:37.671Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjE5MDIsImV4cCI6MTY5MzUyMjE0Mn0.xXU9q6-LRGtdCXG0y9eBbCthxdHGGKxR0m-t52X41PU - time: 2023-08-31T22:45:52.847Z","timestamp":"2023-08-31T22:45:52.847Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjE5MDIsImV4cCI6MTY5MzUyMjE0Mn0.xXU9q6-LRGtdCXG0y9eBbCthxdHGGKxR0m-t52X41PU - time: 2023-08-31T22:45:59.039Z","timestamp":"2023-08-31T22:45:59.039Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T22:47:43.297Z","timestamp":"2023-08-31T22:47:43.297Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:50:27.422Z","timestamp":"2023-08-31T22:50:27.422Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:50:27.661Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T22:50:41.584Z","timestamp":"2023-08-31T22:50:41.584Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T22:50:44.764Z","timestamp":"2023-08-31T22:50:44.764Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T22:50:47.625Z","timestamp":"2023-08-31T22:50:47.626Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjIyNDQsImV4cCI6MTY5MzUyMjQ4NH0.a4Ok3xR9ia7Zg6gpAaAHidWXAJIykHx0CSo3KTfQXcQ - time: 2023-08-31T22:51:11.080Z","timestamp":"2023-08-31T22:51:11.080Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:51:20.985Z","timestamp":"2023-08-31T22:51:20.985Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:51:21.249Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T22:51:26.750Z","timestamp":"2023-08-31T22:51:26.750Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T22:51:28.554Z","timestamp":"2023-08-31T22:51:28.554Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T22:52:01.334Z","timestamp":"2023-08-31T22:52:01.334Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T22:52:08.141Z","timestamp":"2023-08-31T22:52:08.141Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T22:52:10.271Z","timestamp":"2023-08-31T22:52:10.271Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjIzMjgsImV4cCI6MTY5MzUyMjU2OH0.Mx7RIRI4GtrunWxWBUkMP0Thx2DUYtGuwG1gUkVP8eI - time: 2023-08-31T22:52:22.736Z","timestamp":"2023-08-31T22:52:22.736Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:52:28.991Z","timestamp":"2023-08-31T22:52:28.991Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:52:29.205Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T22:52:31.831Z","timestamp":"2023-08-31T22:52:31.831Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T22:52:32.998Z","timestamp":"2023-08-31T22:52:32.998Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjIzMjgsImV4cCI6MTY5MzUyMjU2OH0.Mx7RIRI4GtrunWxWBUkMP0Thx2DUYtGuwG1gUkVP8eI - time: 2023-08-31T22:52:56.323Z","timestamp":"2023-08-31T22:52:56.323Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:53:04.113Z","timestamp":"2023-08-31T22:53:04.113Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:53:04.319Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T22:54:00.658Z","timestamp":"2023-08-31T22:54:00.659Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T22:54:00.889Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T23:01:20.097Z","timestamp":"2023-08-31T23:01:20.098Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T23:01:30.322Z","timestamp":"2023-08-31T23:01:30.322Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T23:01:36.364Z","timestamp":"2023-08-31T23:01:36.364Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T23:01:38.927Z","timestamp":"2023-08-31T23:01:38.927Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjI4OTYsImV4cCI6MTY5MzUyMzEzNn0.jb6YZhdBl3uQGkq0aJj6QBjGW8JHe5NwxO76_YsBTS0 - time: 2023-08-31T23:01:57.536Z","timestamp":"2023-08-31T23:01:57.536Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:02:10.106Z","timestamp":"2023-08-31T23:02:10.106Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T23:02:10.363Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:03:05.810Z","timestamp":"2023-08-31T23:03:05.810Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-08-31T23:03:05.961Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:04:13.012Z","timestamp":"2023-08-31T23:04:13.012Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T23:04:13.234Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:05:45.578Z","timestamp":"2023-08-31T23:05:45.579Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T23:05:45.801Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:06:08.821Z","timestamp":"2023-08-31T23:06:08.821Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-08-31T23:06:09.284Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:06:33.813Z","timestamp":"2023-08-31T23:06:33.814Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T23:06:34.041Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:08:42.534Z","timestamp":"2023-08-31T23:08:42.534Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el mail: cv.tec.gestya01@gmail.com no existe","timestamp":"2023-08-31T23:08:42.769Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:08:50.185Z","timestamp":"2023-08-31T23:08:50.185Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-08-31T23:08:50.405Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:09:23.542Z","timestamp":"2023-08-31T23:09:23.542Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T23:09:26.303Z","timestamp":"2023-08-31T23:09:26.303Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjI4OTYsImV4cCI6MTY5MzUyMzEzNn0.jb6YZhdBl3uQGkq0aJj6QBjGW8JHe5NwxO76_YsBTS0 - time: 2023-08-31T23:21:14.577Z","timestamp":"2023-08-31T23:21:14.578Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T23:21:16.115Z","timestamp":"2023-08-31T23:21:16.115Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T23:21:23.299Z","timestamp":"2023-08-31T23:21:23.299Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T23:21:26.499Z","timestamp":"2023-08-31T23:21:26.499Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjQwODMsImV4cCI6MTY5MzUyNDMyM30.ZlMWd6krkG2NUh3buSwTur8rpcY8a-YaVGqw6j9K0m0 - time: 2023-08-31T23:21:35.041Z","timestamp":"2023-08-31T23:21:35.041Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:21:57.493Z","timestamp":"2023-08-31T23:21:57.493Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-08-31T23:21:57.498Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:25:38.136Z","timestamp":"2023-08-31T23:25:38.136Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-08-31T23:25:38.367Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T23:25:45.902Z","timestamp":"2023-08-31T23:25:45.902Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T23:25:47.652Z","timestamp":"2023-08-31T23:25:47.652Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-08-31T23:25:57.045Z","timestamp":"2023-08-31T23:25:57.045Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-08-31T23:25:59.316Z","timestamp":"2023-08-31T23:25:59.316Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1MjQzNTcsImV4cCI6MTY5MzUyNDU5N30.wHpRvHzwEZG7zVJ45kZOVJ7h1Xep-ZE5dIFL4w83Ov0 - time: 2023-08-31T23:26:06.268Z","timestamp":"2023-08-31T23:26:06.268Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-08-31T23:26:16.773Z","timestamp":"2023-08-31T23:26:16.773Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el correo electrónico cv.tec.gestya06@gmail.com no existe","timestamp":"2023-08-31T23:26:16.825Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-08-31T23:26:20.920Z","timestamp":"2023-08-31T23:26:20.920Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-08-31T23:26:22.854Z","timestamp":"2023-08-31T23:26:22.854Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-01T13:34:18.789Z","timestamp":"2023-09-01T13:34:18.789Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T13:34:22.544Z","timestamp":"2023-09-01T13:34:22.544Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T13:34:25.344Z","timestamp":"2023-09-01T13:34:25.344Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T13:34:28.933Z","timestamp":"2023-09-01T13:34:28.933Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T13:34:32.713Z","timestamp":"2023-09-01T13:34:32.713Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1NzUyNjksImV4cCI6MTY5MzU3NTUwOX0.zQFDktktpC01_AdEB9fmR7j8Eb5-rYykm643ja1TGAI - time: 2023-09-01T13:34:38.191Z","timestamp":"2023-09-01T13:34:38.191Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-01T13:34:59.664Z","timestamp":"2023-09-01T13:34:59.664Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-01T13:34:59.850Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-09-01T13:35:05.072Z","timestamp":"2023-09-01T13:35:05.072Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T13:35:11.656Z","timestamp":"2023-09-01T13:35:11.656Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T13:35:50.730Z","timestamp":"2023-09-01T13:35:50.731Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T13:35:53.642Z","timestamp":"2023-09-01T13:35:53.642Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1NzUzNTAsImV4cCI6MTY5MzU3NTk1MH0.ddtT050hk80XlEKQoaSBel_uzVUgoA6SOXnBKcUiINs - time: 2023-09-01T13:36:02.319Z","timestamp":"2023-09-01T13:36:02.319Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-01T13:36:09.584Z","timestamp":"2023-09-01T13:36:09.584Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-01T13:36:09.804Z"}
+{"level":"info","message":"Method: GET, url: /recover - time: 2023-09-01T13:36:14.082Z","timestamp":"2023-09-01T13:36:14.082Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T13:36:15.203Z","timestamp":"2023-09-01T13:36:15.203Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T13:37:52.602Z","timestamp":"2023-09-01T13:37:52.602Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T13:37:55.263Z","timestamp":"2023-09-01T13:37:55.263Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1NzU0NzIsImV4cCI6MTY5MzU3NjA3Mn0.5S91mxVlAvg-j3y_0vrW4kRgwqMmwTpIBnfGeAurc8g - time: 2023-09-01T13:38:09.264Z","timestamp":"2023-09-01T13:38:09.265Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-01T13:38:17.300Z","timestamp":"2023-09-01T13:38:17.300Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-01T13:38:17.512Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T13:38:19.303Z","timestamp":"2023-09-01T13:38:19.303Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM1NzU0NzIsImV4cCI6MTY5MzU3NjA3Mn0.5S91mxVlAvg-j3y_0vrW4kRgwqMmwTpIBnfGeAurc8g - time: 2023-09-01T13:38:44.654Z","timestamp":"2023-09-01T13:38:44.654Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T14:29:01.357Z","timestamp":"2023-09-01T14:29:01.358Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T14:29:05.892Z","timestamp":"2023-09-01T14:29:05.892Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:29:13.458Z","timestamp":"2023-09-01T14:29:13.458Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-01T14:29:13.468Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-01T14:29:17.940Z","timestamp":"2023-09-01T14:29:17.940Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T14:29:30.909Z","timestamp":"2023-09-01T14:29:30.910Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T14:29:32.444Z","timestamp":"2023-09-01T14:29:32.444Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:29:37.076Z","timestamp":"2023-09-01T14:29:37.076Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-01T14:29:37.078Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:30:21.323Z","timestamp":"2023-09-01T14:30:21.324Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-01T14:30:21.330Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:36:49.001Z","timestamp":"2023-09-01T14:36:49.001Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-01T14:36:49.008Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:39:20.748Z","timestamp":"2023-09-01T14:39:20.748Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:40:53.391Z","timestamp":"2023-09-01T14:40:53.391Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T14:40:57.095Z","timestamp":"2023-09-01T14:40:57.095Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:41:22.772Z","timestamp":"2023-09-01T14:41:22.773Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-01T14:41:22.779Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-01T14:41:25.259Z","timestamp":"2023-09-01T14:41:25.259Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-01T14:41:28.000Z","timestamp":"2023-09-01T14:41:28.000Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T14:41:28.006Z","timestamp":"2023-09-01T14:41:28.006Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-01T14:41:29.557Z","timestamp":"2023-09-01T14:41:29.557Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-01T14:41:32.647Z","timestamp":"2023-09-01T14:41:32.647Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-01T14:41:35.310Z","timestamp":"2023-09-01T14:41:35.310Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LmluZ2VuaWVyaWFsaW51eEBnbWFpbC5jb20iLCJpYXQiOjE2OTM1NzkyNTMsImV4cCI6MTY5MzU3OTg1M30.t5unb7oYc_lrZxib1xBhEMO8poFacZejjh4ufrQc8tA - time: 2023-09-01T14:42:12.841Z","timestamp":"2023-09-01T14:42:12.841Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-01T14:42:12.880Z","timestamp":"2023-09-01T14:42:12.880Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-01T14:42:24.911Z","timestamp":"2023-09-01T14:42:24.911Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-01T14:42:24.916Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-01T14:43:21.308Z","timestamp":"2023-09-01T14:43:21.308Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-01T14:43:21.316Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:27:09.057Z","timestamp":"2023-09-02T12:27:09.058Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-02T12:27:10.586Z","timestamp":"2023-09-02T12:27:10.586Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T12:27:16.243Z","timestamp":"2023-09-02T12:27:16.243Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T12:27:21.411Z","timestamp":"2023-09-02T12:27:21.411Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-02T12:27:21.419Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-02T12:28:19.309Z","timestamp":"2023-09-02T12:28:19.309Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T12:28:23.434Z","timestamp":"2023-09-02T12:28:23.435Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:28:23.442Z","timestamp":"2023-09-02T12:28:23.442Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:29:01.895Z","timestamp":"2023-09-02T12:29:01.895Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-02T12:29:01.962Z","timestamp":"2023-09-02T12:29:01.962Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T12:29:08.739Z","timestamp":"2023-09-02T12:29:08.739Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T12:29:25.286Z","timestamp":"2023-09-02T12:29:25.286Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:29:28.484Z","timestamp":"2023-09-02T12:29:28.484Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LmluZ2VuaWVyaWFsaW51eEBnbWFpbC5jb20iLCJpYXQiOjE2OTM2NTc3NjUsImV4cCI6MTY5MzY1ODM2NX0.xz14UxE-jS9YwdGuRKy1fnTjqBDv82PGmA89ko22e9I - time: 2023-09-02T12:29:35.927Z","timestamp":"2023-09-02T12:29:35.927Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:29:46.419Z","timestamp":"2023-09-02T12:29:46.419Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:29:46.429Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:31:08.013Z","timestamp":"2023-09-02T12:31:08.014Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:31:08.030Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:31:48.593Z","timestamp":"2023-09-02T12:31:48.593Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:31:48.608Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:34:59.002Z","timestamp":"2023-09-02T12:34:59.002Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:34:59.104Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:36:17.887Z","timestamp":"2023-09-02T12:36:17.887Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:36:17.983Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:37:07.284Z","timestamp":"2023-09-02T12:37:07.285Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:37:07.377Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:38:13.671Z","timestamp":"2023-09-02T12:38:13.671Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:38:13.767Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:38:56.112Z","timestamp":"2023-09-02T12:38:56.113Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:38:56.205Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:45:55.686Z","timestamp":"2023-09-02T12:45:55.686Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-02T12:45:55.758Z","timestamp":"2023-09-02T12:45:55.758Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T12:45:58.069Z","timestamp":"2023-09-02T12:45:58.069Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T12:46:03.708Z","timestamp":"2023-09-02T12:46:03.708Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:46:07.131Z","timestamp":"2023-09-02T12:46:07.131Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5mcnVnb25pMzFAZ21haWwuY29tIiwiaWF0IjoxNjkzNjU4NzYzLCJleHAiOjE2OTM2NTkzNjN9.KXWLDTJ3wXQnpIVAAC2Fr35kmkKG2v1dcuIqZKOj2fU - time: 2023-09-02T12:46:28.585Z","timestamp":"2023-09-02T12:46:28.585Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:46:36.781Z","timestamp":"2023-09-02T12:46:36.781Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:46:36.870Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-02T12:50:08.938Z","timestamp":"2023-09-02T12:50:08.938Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T12:50:35.896Z","timestamp":"2023-09-02T12:50:35.896Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T12:50:38.597Z","timestamp":"2023-09-02T12:50:38.597Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: Error: El correo electrónico ya está registrado","timestamp":"2023-09-02T12:50:38.685Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T12:51:10.059Z","timestamp":"2023-09-02T12:51:10.059Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:51:10.069Z","timestamp":"2023-09-02T12:51:10.069Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T12:51:12.387Z","timestamp":"2023-09-02T12:51:12.387Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T12:51:20.555Z","timestamp":"2023-09-02T12:51:20.555Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T12:51:23.304Z","timestamp":"2023-09-02T12:51:23.304Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pY29mXzMxQGhvdG1haWwuY29tIiwiaWF0IjoxNjkzNjU5MDgwLCJleHAiOjE2OTM2NTk2ODB9.8lI6BRDqrCPf6_cfkzLjkeOBB1rFXd-En5cmVWj0qV0 - time: 2023-09-02T12:51:37.774Z","timestamp":"2023-09-02T12:51:37.774Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:51:54.091Z","timestamp":"2023-09-02T12:51:54.091Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-02T12:51:54.256Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:52:06.367Z","timestamp":"2023-09-02T12:52:06.367Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:52:06.531Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:52:57.876Z","timestamp":"2023-09-02T12:52:57.876Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:52:58.139Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:54:00.051Z","timestamp":"2023-09-02T12:54:00.052Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Password","timestamp":"2023-09-02T12:54:00.225Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:54:39.948Z","timestamp":"2023-09-02T12:54:39.949Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:54:54.993Z","timestamp":"2023-09-02T12:54:54.993Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El usuario con el correo electrónico nicof_31@hotmail.com no existe","timestamp":"2023-09-02T12:54:55.005Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:58:29.240Z","timestamp":"2023-09-02T12:58:29.240Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-02T12:58:29.415Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:58:37.764Z","timestamp":"2023-09-02T12:58:37.764Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:58:39.960Z","timestamp":"2023-09-02T12:58:39.962Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:59:06.318Z","timestamp":"2023-09-02T12:59:06.319Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T12:59:08.523Z","timestamp":"2023-09-02T12:59:08.523Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:02:47.431Z","timestamp":"2023-09-02T13:02:47.432Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:02:50.435Z","timestamp":"2023-09-02T13:02:50.435Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:02:53.482Z","timestamp":"2023-09-02T13:02:53.482Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pY29mXzMxQGhvdG1haWwuY29tIiwiaWF0IjoxNjkzNjU5NzcwLCJleHAiOjE2OTM2NjAzNzB9.kssTHdd_hhG_pfiiH1AJQDeZtT37t_LzZIE_he_SVrc - time: 2023-09-02T13:03:01.790Z","timestamp":"2023-09-02T13:03:01.790Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:03:19.184Z","timestamp":"2023-09-02T13:03:19.184Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-02T13:03:19.404Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:03:37.097Z","timestamp":"2023-09-02T13:03:37.097Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:03:39.471Z","timestamp":"2023-09-02T13:03:39.471Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:06:26.330Z","timestamp":"2023-09-02T13:06:26.331Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:06:28.552Z","timestamp":"2023-09-02T13:06:28.552Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:07:38.883Z","timestamp":"2023-09-02T13:07:38.883Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:07:41.052Z","timestamp":"2023-09-02T13:07:41.052Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:08:44.602Z","timestamp":"2023-09-02T13:08:44.602Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-02T13:08:47.369Z","timestamp":"2023-09-02T13:08:47.369Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:08:49.233Z","timestamp":"2023-09-02T13:08:49.233Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:08:53.501Z","timestamp":"2023-09-02T13:08:53.502Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:08:56.944Z","timestamp":"2023-09-02T13:08:56.944Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM2NjAxMzMsImV4cCI6MTY5MzY2MDczM30.H3f1PBF7cayIdGHNlrfPXe2ifduDY2m3hdIlfcSzUV8 - time: 2023-09-02T13:09:06.982Z","timestamp":"2023-09-02T13:09:06.982Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:09:16.274Z","timestamp":"2023-09-02T13:09:16.274Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:09:19.446Z","timestamp":"2023-09-02T13:09:19.446Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:12:19.929Z","timestamp":"2023-09-02T13:12:19.929Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:12:24.544Z","timestamp":"2023-09-02T13:12:24.544Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:12:27.413Z","timestamp":"2023-09-02T13:12:27.413Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM2NjAzNDQsImV4cCI6MTY5MzY2MDk0NH0.EQHEoW4dJD3vpb2F-mrIo9Rwov3WjhH1NFb4Y8trTgE - time: 2023-09-02T13:12:36.937Z","timestamp":"2023-09-02T13:12:36.937Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:12:48.991Z","timestamp":"2023-09-02T13:12:48.991Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-02T13:12:49.197Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:12:54.324Z","timestamp":"2023-09-02T13:12:54.324Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:12:57.040Z","timestamp":"2023-09-02T13:12:57.040Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:13:56.747Z","timestamp":"2023-09-02T13:13:56.748Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:13:59.951Z","timestamp":"2023-09-02T13:13:59.951Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:14:02.798Z","timestamp":"2023-09-02T13:14:02.798Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pY29mXzMxQGhvdG1haWwuY29tIiwiaWF0IjoxNjkzNjYwNDM5LCJleHAiOjE2OTM2NjEwMzl9.7S53ADIM4aUiqEmS8hEgrxmR-KpkOd18PSchshK1tqM - time: 2023-09-02T13:14:14.701Z","timestamp":"2023-09-02T13:14:14.701Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:14:23.407Z","timestamp":"2023-09-02T13:14:23.407Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-02T13:14:23.599Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:14:48.770Z","timestamp":"2023-09-02T13:14:48.770Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:14:51.075Z","timestamp":"2023-09-02T13:14:51.075Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:15:43.030Z","timestamp":"2023-09-02T13:15:43.031Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:15:43.214Z","timestamp":"2023-09-02T13:15:43.214Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:17:26.808Z","timestamp":"2023-09-02T13:17:26.809Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:17:29.607Z","timestamp":"2023-09-02T13:17:29.607Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:17:32.190Z","timestamp":"2023-09-02T13:17:32.190Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pY29mXzMxQGhvdG1haWwuY29tIiwiaWF0IjoxNjkzNjYwNjQ5LCJleHAiOjE2OTM2NjEyNDl9.HQKXrfU4Nz0b8SinqbYjFHGJP99FrSmC8EPy4OF1Z8I - time: 2023-09-02T13:17:50.172Z","timestamp":"2023-09-02T13:17:50.172Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:17:58.353Z","timestamp":"2023-09-02T13:17:58.353Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:18:00.533Z","timestamp":"2023-09-02T13:18:00.534Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:27:39.972Z","timestamp":"2023-09-02T13:27:39.972Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:27:42.148Z","timestamp":"2023-09-02T13:27:42.148Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:30:59.352Z","timestamp":"2023-09-02T13:30:59.353Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:31:01.523Z","timestamp":"2023-09-02T13:31:01.524Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:31:25.117Z","timestamp":"2023-09-02T13:31:25.118Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:31:27.267Z","timestamp":"2023-09-02T13:31:27.267Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:32:51.029Z","timestamp":"2023-09-02T13:32:51.030Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:32:53.197Z","timestamp":"2023-09-02T13:32:53.198Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:34:13.632Z","timestamp":"2023-09-02T13:34:13.632Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:34:15.749Z","timestamp":"2023-09-02T13:34:15.749Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:34:40.181Z","timestamp":"2023-09-02T13:34:40.181Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:34:51.353Z","timestamp":"2023-09-02T13:34:51.353Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:34:53.519Z","timestamp":"2023-09-02T13:34:53.520Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:37:25.727Z","timestamp":"2023-09-02T13:37:25.728Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:38:39.247Z","timestamp":"2023-09-02T13:38:39.248Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:38:41.439Z","timestamp":"2023-09-02T13:38:41.440Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:39:00.248Z","timestamp":"2023-09-02T13:39:00.249Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:39:02.424Z","timestamp":"2023-09-02T13:39:02.425Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:39:36.676Z","timestamp":"2023-09-02T13:39:36.677Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:39:39.099Z","timestamp":"2023-09-02T13:39:39.100Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-02T13:42:49.523Z","timestamp":"2023-09-02T13:42:49.523Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-02T13:42:53.505Z","timestamp":"2023-09-02T13:42:53.505Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:42:56.639Z","timestamp":"2023-09-02T13:42:56.639Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM2NjIxNzMsImV4cCI6MTY5MzY2Mjc3M30.vZt8NQfVKxZZnjjx9vEiYl_U9VtOpeg7u6bYK-DEAk8 - time: 2023-09-02T13:43:09.512Z","timestamp":"2023-09-02T13:43:09.512Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-02T13:43:16.462Z","timestamp":"2023-09-02T13:43:16.462Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T13:43:20.056Z","timestamp":"2023-09-02T13:43:20.056Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T18:34:49.200Z","timestamp":"2023-09-02T18:34:49.201Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T18:34:49.356Z","timestamp":"2023-09-02T18:34:49.356Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T18:35:33.622Z","timestamp":"2023-09-02T18:35:33.622Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-02T18:35:33.687Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T18:36:52.648Z","timestamp":"2023-09-02T18:36:52.648Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T18:38:29.329Z","timestamp":"2023-09-02T18:38:29.330Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: owner: Path `owner` is required.","timestamp":"2023-09-02T18:38:29.459Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T18:42:54.861Z","timestamp":"2023-09-02T18:42:54.861Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: owner: Path `owner` is required.","timestamp":"2023-09-02T18:42:54.993Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:18:38.521Z","timestamp":"2023-09-02T19:18:38.521Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: owner: Path `owner` is required.","timestamp":"2023-09-02T19:18:38.650Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:19:06.099Z","timestamp":"2023-09-02T19:19:06.099Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: owner: Path `owner` is required.","timestamp":"2023-09-02T19:19:06.214Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:23:38.950Z","timestamp":"2023-09-02T19:23:38.950Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-02T19:24:06.036Z","timestamp":"2023-09-02T19:24:06.036Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T19:24:06.055Z","timestamp":"2023-09-02T19:24:06.055Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T19:24:13.932Z","timestamp":"2023-09-02T19:24:13.932Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T19:24:14.062Z","timestamp":"2023-09-02T19:24:14.062Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:24:35.222Z","timestamp":"2023-09-02T19:24:35.222Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:47:26.166Z","timestamp":"2023-09-02T19:47:26.166Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T19:48:10.751Z","timestamp":"2023-09-02T19:48:10.751Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T19:49:41.684Z","timestamp":"2023-09-02T19:49:41.684Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T19:51:11.570Z","timestamp":"2023-09-02T19:51:11.570Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T19:51:11.693Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T19:51:59.622Z","timestamp":"2023-09-02T19:51:59.622Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T19:51:59.743Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T19:54:23.096Z","timestamp":"2023-09-02T19:54:23.097Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T19:54:23.215Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:02:15.636Z","timestamp":"2023-09-02T20:02:15.636Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T20:02:15.757Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:03:04.122Z","timestamp":"2023-09-02T20:03:04.122Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T20:03:10.142Z","timestamp":"2023-09-02T20:03:10.142Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:04:04.886Z","timestamp":"2023-09-02T20:04:04.886Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T20:04:04.991Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:04:57.962Z","timestamp":"2023-09-02T20:04:57.962Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T20:04:58.083Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:06:27.053Z","timestamp":"2023-09-02T20:06:27.053Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: ValidationError: role: `PREMIUM` is not a valid enum value for path `role`.","timestamp":"2023-09-02T20:06:27.175Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-02T20:07:34.415Z","timestamp":"2023-09-02T20:07:34.416Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T20:07:39.386Z","timestamp":"2023-09-02T20:07:39.386Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:08:45.540Z","timestamp":"2023-09-02T20:08:45.540Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-02T20:08:45.619Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:08:57.943Z","timestamp":"2023-09-02T20:08:57.943Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-02T20:09:34.339Z","timestamp":"2023-09-02T20:09:34.339Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T20:09:34.377Z","timestamp":"2023-09-02T20:09:34.377Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T20:09:38.109Z","timestamp":"2023-09-02T20:09:38.109Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T20:09:38.249Z","timestamp":"2023-09-02T20:09:38.249Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:09:58.068Z","timestamp":"2023-09-02T20:09:58.068Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-02T20:09:58.128Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:10:09.830Z","timestamp":"2023-09-02T20:10:09.831Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:13:08.613Z","timestamp":"2023-09-02T20:13:08.613Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:14:11.051Z","timestamp":"2023-09-02T20:14:11.051Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:15:32.037Z","timestamp":"2023-09-02T20:15:32.037Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:16:32.263Z","timestamp":"2023-09-02T20:16:32.264Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:17:43.371Z","timestamp":"2023-09-02T20:17:43.371Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T20:26:19.259Z","timestamp":"2023-09-02T20:26:19.260Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-02T20:58:48.535Z","timestamp":"2023-09-02T20:58:48.535Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T20:58:48.565Z","timestamp":"2023-09-02T20:58:48.565Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T20:58:54.595Z","timestamp":"2023-09-02T20:58:54.595Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T20:58:54.731Z","timestamp":"2023-09-02T20:58:54.731Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T20:59:12.837Z","timestamp":"2023-09-02T20:59:12.837Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T20:59:12.899Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:00:03.009Z","timestamp":"2023-09-02T21:00:03.010Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:00:03.082Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:01:28.648Z","timestamp":"2023-09-02T21:01:28.649Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:01:28.716Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:02:20.928Z","timestamp":"2023-09-02T21:02:20.928Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:02:21.001Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:02:32.544Z","timestamp":"2023-09-02T21:02:32.544Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:02:32.603Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:02:48.987Z","timestamp":"2023-09-02T21:02:48.987Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:02:49.618Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:03:29.299Z","timestamp":"2023-09-02T21:03:29.300Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:03:29.369Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:04:14.913Z","timestamp":"2023-09-02T21:04:14.913Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:04:14.984Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:06:32.785Z","timestamp":"2023-09-02T21:06:32.785Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: ReferenceError: product is not defined","timestamp":"2023-09-02T21:06:32.862Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:08:20.280Z","timestamp":"2023-09-02T21:08:20.280Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: this.httpResponse.Forbidden is not a function","timestamp":"2023-09-02T21:08:20.350Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:09:09.583Z","timestamp":"2023-09-02T21:09:09.583Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:11:40.979Z","timestamp":"2023-09-02T21:11:40.979Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/23 - time: 2023-09-02T21:12:04.906Z","timestamp":"2023-09-02T21:12:04.906Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/23 - time: 2023-09-02T21:12:44.310Z","timestamp":"2023-09-02T21:12:44.310Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:13:17.925Z","timestamp":"2023-09-02T21:13:17.925Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:13:28.675Z","timestamp":"2023-09-02T21:13:28.675Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-02T21:13:28.746Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:13:49.525Z","timestamp":"2023-09-02T21:13:49.525Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:14:05.998Z","timestamp":"2023-09-02T21:14:05.998Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/27 - time: 2023-09-02T21:14:16.827Z","timestamp":"2023-09-02T21:14:16.827Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: ProductService: El _id '27' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-02T21:14:16.882Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/26 - time: 2023-09-02T21:14:31.598Z","timestamp":"2023-09-02T21:14:31.598Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/1 - time: 2023-09-02T21:15:01.300Z","timestamp":"2023-09-02T21:15:01.300Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-02T21:15:01.352Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/1 - time: 2023-09-02T21:15:57.637Z","timestamp":"2023-09-02T21:15:57.637Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-02T21:17:54.435Z","timestamp":"2023-09-02T21:17:54.436Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T21:17:54.456Z","timestamp":"2023-09-02T21:17:54.456Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T21:17:59.391Z","timestamp":"2023-09-02T21:17:59.391Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T21:17:59.565Z","timestamp":"2023-09-02T21:17:59.565Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:18:27.108Z","timestamp":"2023-09-02T21:18:27.108Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:18:38.880Z","timestamp":"2023-09-02T21:18:38.880Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/25 - time: 2023-09-02T21:19:46.873Z","timestamp":"2023-09-02T21:19:46.873Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/24 - time: 2023-09-02T21:20:18.351Z","timestamp":"2023-09-02T21:20:18.351Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-02T21:20:36.100Z","timestamp":"2023-09-02T21:20:36.100Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-02T21:20:36.120Z","timestamp":"2023-09-02T21:20:36.120Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-02T21:20:39.107Z","timestamp":"2023-09-02T21:20:39.107Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-02T21:20:39.227Z","timestamp":"2023-09-02T21:20:39.227Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/27 - time: 2023-09-02T21:21:10.014Z","timestamp":"2023-09-02T21:21:10.014Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:21:34.050Z","timestamp":"2023-09-02T21:21:34.050Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-02T21:21:41.637Z","timestamp":"2023-09-02T21:21:41.637Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/26 - time: 2023-09-02T21:22:14.210Z","timestamp":"2023-09-02T21:22:14.210Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/27 - time: 2023-09-02T21:22:27.313Z","timestamp":"2023-09-02T21:22:27.313Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/28 - time: 2023-09-02T21:22:32.972Z","timestamp":"2023-09-02T21:22:32.972Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-03T13:10:47.843Z","timestamp":"2023-09-03T13:10:47.843Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-03T13:10:48.000Z","timestamp":"2023-09-03T13:10:48.000Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-03T13:11:18.582Z","timestamp":"2023-09-03T13:11:18.582Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-03T13:11:28.077Z","timestamp":"2023-09-03T13:11:28.077Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-03T13:11:37.785Z","timestamp":"2023-09-03T13:11:37.785Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/35 - time: 2023-09-03T13:12:08.217Z","timestamp":"2023-09-03T13:12:08.217Z"}
+{"level":"fatal","message":"INTERNAL SERVER ERROR - Error en el middleware checkPremiumPermissio Error: ProductService: El _id '35' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:12:08.277Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: productManager: El id de producto buscado no existe, cargue un nuevo id","timestamp":"2023-09-03T13:12:08.337Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/35 - time: 2023-09-03T13:14:40.480Z","timestamp":"2023-09-03T13:14:40.480Z"}
+{"level":"fatal","message":"INTERNAL SERVER ERROR - Error en el middleware checkPremiumPermissio Error: ProductService: El _id '35' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:14:40.553Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: productManager: El id de producto buscado no existe, cargue un nuevo id","timestamp":"2023-09-03T13:14:40.618Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/32 - time: 2023-09-03T13:16:51.029Z","timestamp":"2023-09-03T13:16:51.029Z"}
+{"level":"fatal","message":"INTERNAL SERVER ERROR - Error en el middleware checkPremiumPermissio TypeError: next is not a function","timestamp":"2023-09-03T13:16:51.097Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","timestamp":"2023-09-03T13:16:51.209Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/32 - time: 2023-09-03T13:19:16.793Z","timestamp":"2023-09-03T13:19:16.793Z"}
+{"level":"fatal","message":"INTERNAL SERVER ERROR - Error en el middleware checkPremiumPermission Error: ProductService: El _id '32' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:19:16.897Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: productManager: El id de producto buscado no existe, cargue un nuevo id","timestamp":"2023-09-03T13:19:16.963Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/32 - time: 2023-09-03T13:20:11.023Z","timestamp":"2023-09-03T13:20:11.023Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: ProductService: El _id '32' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:20:11.094Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/36 - time: 2023-09-03T13:20:25.462Z","timestamp":"2023-09-03T13:20:25.462Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición DELETE: Error: ProductService: El _id '36' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:20:25.519Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/26 - time: 2023-09-03T13:20:57.644Z","timestamp":"2023-09-03T13:20:57.644Z"}
+{"level":"info","message":"Method: DELETE, url: /api/products/29 - time: 2023-09-03T13:21:13.608Z","timestamp":"2023-09-03T13:21:13.608Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/32 - time: 2023-09-03T13:41:21.369Z","timestamp":"2023-09-03T13:41:21.369Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:41:49.164Z","timestamp":"2023-09-03T13:41:49.164Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:46:54.714Z","timestamp":"2023-09-03T13:46:54.714Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:47:17.337Z","timestamp":"2023-09-03T13:47:17.337Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:47:34.686Z","timestamp":"2023-09-03T13:47:34.687Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-03T13:50:45.440Z","timestamp":"2023-09-03T13:50:45.440Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-03T13:50:45.458Z","timestamp":"2023-09-03T13:50:45.458Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-03T13:50:49.970Z","timestamp":"2023-09-03T13:50:49.970Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-03T13:50:50.098Z","timestamp":"2023-09-03T13:50:50.098Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:51:11.613Z","timestamp":"2023-09-03T13:51:11.613Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:51:32.932Z","timestamp":"2023-09-03T13:51:32.933Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T13:52:07.284Z","timestamp":"2023-09-03T13:52:07.284Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/27 - time: 2023-09-03T13:52:19.832Z","timestamp":"2023-09-03T13:52:19.832Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/11 - time: 2023-09-03T13:56:43.015Z","timestamp":"2023-09-03T13:56:43.015Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición PUT: Error: ProductService: El _id '11' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:56:43.083Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/32 - time: 2023-09-03T13:57:10.126Z","timestamp":"2023-09-03T13:57:10.126Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición PUT: Error: ProductService: El _id '32' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-03T13:57:10.181Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/30 - time: 2023-09-03T13:57:23.934Z","timestamp":"2023-09-03T13:57:23.934Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/26 - time: 2023-09-03T13:57:31.760Z","timestamp":"2023-09-03T13:57:31.760Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-03T13:59:05.989Z","timestamp":"2023-09-03T13:59:05.989Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-03T13:59:06.009Z","timestamp":"2023-09-03T13:59:06.009Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-03T13:59:12.478Z","timestamp":"2023-09-03T13:59:12.478Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-03T13:59:12.615Z","timestamp":"2023-09-03T13:59:12.615Z"}
+{"level":"info","message":"Method: PATCH, url: /api/products/31 - time: 2023-09-03T14:00:04.494Z","timestamp":"2023-09-03T14:00:04.494Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/30 - time: 2023-09-03T14:00:59.135Z","timestamp":"2023-09-03T14:00:59.135Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/27 - time: 2023-09-03T14:01:16.787Z","timestamp":"2023-09-03T14:01:16.787Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición PUT: Error: productManager: El código de producto existe en otro producto, cargue un nuevo código de producto","timestamp":"2023-09-03T14:01:16.846Z"}
+{"level":"info","message":"Method: PUT, url: /api/products/27 - time: 2023-09-03T14:01:26.098Z","timestamp":"2023-09-03T14:01:26.098Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-04T11:47:45.466Z","timestamp":"2023-09-04T11:47:45.466Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-04T11:47:45.624Z","timestamp":"2023-09-04T11:47:45.624Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/26/?accion=aumentar - time: 2023-09-04T11:48:54.240Z","timestamp":"2023-09-04T11:48:54.240Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-04T11:49:25.417Z","timestamp":"2023-09-04T11:49:25.417Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: TypeError: this.httpResponse.Forbidden is not a function","timestamp":"2023-09-04T11:49:25.473Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-04T11:50:39.304Z","timestamp":"2023-09-04T11:50:39.304Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/31/?accion=aumentar - time: 2023-09-04T11:51:06.240Z","timestamp":"2023-09-04T11:51:06.240Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/26/?accion=aumentar - time: 2023-09-04T11:51:16.405Z","timestamp":"2023-09-04T11:51:16.405Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-04T22:39:51.449Z","timestamp":"2023-09-04T22:39:51.449Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-04T22:39:51.589Z","timestamp":"2023-09-04T22:39:51.589Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:41:28.933Z","timestamp":"2023-09-04T22:41:28.933Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:42:17.525Z","timestamp":"2023-09-04T22:42:17.525Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:43:26.318Z","timestamp":"2023-09-04T22:43:26.319Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:43:37.112Z","timestamp":"2023-09-04T22:43:37.112Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:45:32.538Z","timestamp":"2023-09-04T22:45:32.538Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:45:36.172Z","timestamp":"2023-09-04T22:45:36.172Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:46:18.635Z","timestamp":"2023-09-04T22:46:18.635Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:47:44.698Z","timestamp":"2023-09-04T22:47:44.698Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T22:49:46.681Z","timestamp":"2023-09-04T22:49:46.681Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/2 - time: 2023-09-04T22:50:16.595Z","timestamp":"2023-09-04T22:50:16.595Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/2 - time: 2023-09-04T22:50:55.842Z","timestamp":"2023-09-04T22:50:55.842Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/2 - time: 2023-09-04T22:51:15.717Z","timestamp":"2023-09-04T22:51:15.717Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Role","timestamp":"2023-09-04T22:51:15.726Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/2 - time: 2023-09-04T22:52:06.277Z","timestamp":"2023-09-04T22:52:06.277Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Role","timestamp":"2023-09-04T22:52:06.292Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:52:33.290Z","timestamp":"2023-09-04T22:52:33.290Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:53:02.503Z","timestamp":"2023-09-04T22:53:02.503Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:56:45.761Z","timestamp":"2023-09-04T22:56:45.761Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:57:01.774Z","timestamp":"2023-09-04T22:57:01.774Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:58:14.470Z","timestamp":"2023-09-04T22:58:14.470Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:58:24.970Z","timestamp":"2023-09-04T22:58:24.970Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:58:32.833Z","timestamp":"2023-09-04T22:58:32.833Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:58:35.239Z","timestamp":"2023-09-04T22:58:35.240Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:58:36.722Z","timestamp":"2023-09-04T22:58:36.722Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:01.679Z","timestamp":"2023-09-04T22:59:01.679Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:03.296Z","timestamp":"2023-09-04T22:59:03.296Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:04.649Z","timestamp":"2023-09-04T22:59:04.649Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-04T22:59:12.719Z","timestamp":"2023-09-04T22:59:12.719Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-04T22:59:12.736Z","timestamp":"2023-09-04T22:59:12.736Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-04T22:59:16.221Z","timestamp":"2023-09-04T22:59:16.221Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-04T22:59:16.350Z","timestamp":"2023-09-04T22:59:16.351Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:48.154Z","timestamp":"2023-09-04T22:59:48.155Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:50.188Z","timestamp":"2023-09-04T22:59:50.188Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T22:59:51.504Z","timestamp":"2023-09-04T22:59:51.504Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-04T23:00:24.747Z","timestamp":"2023-09-04T23:00:24.748Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-04T23:00:24.773Z","timestamp":"2023-09-04T23:00:24.773Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-04T23:00:28.222Z","timestamp":"2023-09-04T23:00:28.222Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-04T23:00:28.349Z","timestamp":"2023-09-04T23:00:28.349Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:00:44.955Z","timestamp":"2023-09-04T23:00:44.955Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:00:46.137Z","timestamp":"2023-09-04T23:00:46.137Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T23:08:20.308Z","timestamp":"2023-09-04T23:08:20.309Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:08:20.322Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T23:08:56.770Z","timestamp":"2023-09-04T23:08:56.770Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:08:56.775Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T23:09:48.005Z","timestamp":"2023-09-04T23:09:48.005Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:09:48.019Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T23:10:48.517Z","timestamp":"2023-09-04T23:10:48.517Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:10:48.529Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:10:52.192Z","timestamp":"2023-09-04T23:10:52.192Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:10:53.696Z","timestamp":"2023-09-04T23:10:53.696Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/'64d6918281b7b7f0b2d9369a' - time: 2023-09-04T23:10:58.798Z","timestamp":"2023-09-04T23:10:58.798Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:10:58.803Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:11:19.804Z","timestamp":"2023-09-04T23:11:19.804Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:11:24.522Z","timestamp":"2023-09-04T23:11:24.522Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:11:28.690Z","timestamp":"2023-09-04T23:11:28.690Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:11:42.328Z","timestamp":"2023-09-04T23:11:42.328Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:12:20.081Z","timestamp":"2023-09-04T23:12:20.082Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:12:24.350Z","timestamp":"2023-09-04T23:12:24.350Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:12:24.414Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:14:46.685Z","timestamp":"2023-09-04T23:14:46.686Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:14:46.746Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:16:07.648Z","timestamp":"2023-09-04T23:16:07.648Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:16:07.701Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:20:42.829Z","timestamp":"2023-09-04T23:20:42.829Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:20:42.892Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:21:03.402Z","timestamp":"2023-09-04T23:21:03.402Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:21:03.464Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:22:01.034Z","timestamp":"2023-09-04T23:22:01.035Z"}
+{"level":"error","message":"DB ERROR - No se puede obtener la información del user","timestamp":"2023-09-04T23:22:01.098Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:25:22.673Z","timestamp":"2023-09-04T23:25:22.674Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo obtener los datos del User en la base de datos: Error: User not exists.","timestamp":"2023-09-04T23:25:22.737Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:25:58.840Z","timestamp":"2023-09-04T23:25:58.840Z"}
+{"level":"error","message":"DB ERROR - Ocurrió un error en cambio de Role","timestamp":"2023-09-04T23:25:58.893Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369c - time: 2023-09-04T23:27:22.339Z","timestamp":"2023-09-04T23:27:22.339Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: Error: User not exists.","timestamp":"2023-09-04T23:27:22.403Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:27:52.962Z","timestamp":"2023-09-04T23:27:52.962Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/64d6918281b7b7f0b2d9369a - time: 2023-09-04T23:27:54.877Z","timestamp":"2023-09-04T23:27:54.877Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-04T23:53:09.150Z","timestamp":"2023-09-04T23:53:09.151Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-04T23:53:09.250Z","timestamp":"2023-09-04T23:53:09.250Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-04T23:53:34.877Z","timestamp":"2023-09-04T23:53:34.877Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo obtener los datos del User en la base de datos: ReferenceError: userId is not defined","timestamp":"2023-09-04T23:53:34.883Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-04T23:54:00.997Z","timestamp":"2023-09-04T23:54:00.998Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo obtener los datos del User en la base de datos: ReferenceError: userId is not defined","timestamp":"2023-09-04T23:54:01.017Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-04T23:54:39.662Z","timestamp":"2023-09-04T23:54:39.662Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402d - time: 2023-09-04T23:54:52.230Z","timestamp":"2023-09-04T23:54:52.230Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo obtener los datos del User en la base de datos: Error: User not exists","timestamp":"2023-09-04T23:54:52.235Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-04T23:54:58.098Z","timestamp":"2023-09-04T23:54:58.098Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-04T23:56:12.260Z","timestamp":"2023-09-04T23:56:12.260Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-05T00:00:41.587Z","timestamp":"2023-09-05T00:00:41.587Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: TypeError: Cannot read properties of undefined (reading 'role')","timestamp":"2023-09-05T00:00:41.603Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-05T00:01:48.038Z","timestamp":"2023-09-05T00:01:48.039Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: TypeError: Cannot read properties of undefined (reading 'role')","timestamp":"2023-09-05T00:01:48.051Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-05T00:02:11.190Z","timestamp":"2023-09-05T00:02:11.190Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: TypeError: Cannot read properties of undefined (reading 'role')","timestamp":"2023-09-05T00:02:11.204Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-05T00:03:57.143Z","timestamp":"2023-09-05T00:03:57.144Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/896deb51-04cc-4499-8cac-922ae3f3402c - time: 2023-09-05T00:04:03.573Z","timestamp":"2023-09-05T00:04:03.573Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:04:20.239Z","timestamp":"2023-09-05T00:04:20.239Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:04:24.136Z","timestamp":"2023-09-05T00:04:24.136Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869d - time: 2023-09-05T00:04:34.068Z","timestamp":"2023-09-05T00:04:34.069Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: Error: User not exists.","timestamp":"2023-09-05T00:04:34.081Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869d - time: 2023-09-05T00:04:55.687Z","timestamp":"2023-09-05T00:04:55.687Z"}
+{"level":"error","message":"INVALID PARAMS ERROR - No se pudo procesar el cambio de Role: Error: User not exists.","timestamp":"2023-09-05T00:04:55.693Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:05:11.463Z","timestamp":"2023-09-05T00:05:11.463Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:05:44.398Z","timestamp":"2023-09-05T00:05:44.399Z"}
+{"level":"info","message":"Method: POST, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:05:52.297Z","timestamp":"2023-09-05T00:05:52.297Z"}
+{"level":"info","message":"Method: GET, url: /api/session/premium/42c07e3e-5be3-4903-9a0b-afe10e3e869c - time: 2023-09-05T00:05:56.651Z","timestamp":"2023-09-05T00:05:56.651Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:26:44.188Z","timestamp":"2023-09-05T00:26:44.188Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:26:44.214Z","timestamp":"2023-09-05T00:26:44.214Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:27:39.722Z","timestamp":"2023-09-05T00:27:39.722Z"}
+{"level":"error","message":"UNAUTHORIZED ERROR - Credenciales inválidas","timestamp":"2023-09-05T00:27:39.732Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:27:59.628Z","timestamp":"2023-09-05T00:27:59.628Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:27:59.712Z","timestamp":"2023-09-05T00:27:59.712Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-05T00:29:23.716Z","timestamp":"2023-09-05T00:29:23.716Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-05T00:29:32.171Z","timestamp":"2023-09-05T00:29:32.171Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: Error: El correo electrónico ya está registrado","timestamp":"2023-09-05T00:29:32.235Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:29:49.950Z","timestamp":"2023-09-05T00:29:49.950Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:29:50.041Z","timestamp":"2023-09-05T00:29:50.041Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:29:59.402Z","timestamp":"2023-09-05T00:29:59.402Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:29:59.423Z","timestamp":"2023-09-05T00:29:59.423Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:30:06.457Z","timestamp":"2023-09-05T00:30:06.457Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:30:06.539Z","timestamp":"2023-09-05T00:30:06.539Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T00:31:24.440Z","timestamp":"2023-09-05T00:31:24.440Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T00:31:30.260Z","timestamp":"2023-09-05T00:31:30.260Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T00:31:53.012Z","timestamp":"2023-09-05T00:31:53.012Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T00:31:57.385Z","timestamp":"2023-09-05T00:31:57.386Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T00:33:20.979Z","timestamp":"2023-09-05T00:33:20.979Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:34:17.266Z","timestamp":"2023-09-05T00:34:17.266Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:35:19.428Z","timestamp":"2023-09-05T00:35:19.428Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:35:19.452Z","timestamp":"2023-09-05T00:35:19.452Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:35:25.753Z","timestamp":"2023-09-05T00:35:25.753Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:35:25.837Z","timestamp":"2023-09-05T00:35:25.837Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T00:37:52.631Z","timestamp":"2023-09-05T00:37:52.632Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:44:40.467Z","timestamp":"2023-09-05T00:44:40.468Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:44:56.900Z","timestamp":"2023-09-05T00:44:56.900Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:44:56.922Z","timestamp":"2023-09-05T00:44:56.922Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:45:05.555Z","timestamp":"2023-09-05T00:45:05.555Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:45:05.653Z","timestamp":"2023-09-05T00:45:05.653Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:45:20.507Z","timestamp":"2023-09-05T00:45:20.507Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:45:20.523Z","timestamp":"2023-09-05T00:45:20.523Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:45:36.880Z","timestamp":"2023-09-05T00:45:36.881Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:45:36.957Z","timestamp":"2023-09-05T00:45:36.957Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:45:40.541Z","timestamp":"2023-09-05T00:45:40.541Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:45:40.621Z","timestamp":"2023-09-05T00:45:40.621Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:45:46.371Z","timestamp":"2023-09-05T00:45:46.371Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:45:46.384Z","timestamp":"2023-09-05T00:45:46.384Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:45:53.025Z","timestamp":"2023-09-05T00:45:53.025Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:45:53.106Z","timestamp":"2023-09-05T00:45:53.106Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:46:52.652Z","timestamp":"2023-09-05T00:46:52.652Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:49:51.882Z","timestamp":"2023-09-05T00:49:51.882Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:51:22.381Z","timestamp":"2023-09-05T00:51:22.381Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:51:30.216Z","timestamp":"2023-09-05T00:51:30.216Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:51:49.129Z","timestamp":"2023-09-05T00:51:49.129Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:52:45.101Z","timestamp":"2023-09-05T00:52:45.101Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T00:54:56.932Z","timestamp":"2023-09-05T00:54:56.933Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: ProductService: El _id '12' de producto buscado no existe, cargue un nuevo _id","timestamp":"2023-09-05T00:54:57.007Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/20/?accion=aumentar - time: 2023-09-05T00:55:09.351Z","timestamp":"2023-09-05T00:55:09.351Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-05T00:55:09.423Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:55:28.741Z","timestamp":"2023-09-05T00:55:28.741Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:55:28.877Z","timestamp":"2023-09-05T00:55:28.877Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/20/?accion=aumentar - time: 2023-09-05T00:55:47.520Z","timestamp":"2023-09-05T00:55:47.521Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-05T00:55:47.584Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/23/?accion=aumentar - time: 2023-09-05T00:56:28.217Z","timestamp":"2023-09-05T00:56:28.217Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T00:59:20.986Z","timestamp":"2023-09-05T00:59:20.986Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T00:59:21.012Z","timestamp":"2023-09-05T00:59:21.012Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T00:59:25.486Z","timestamp":"2023-09-05T00:59:25.486Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T00:59:25.573Z","timestamp":"2023-09-05T00:59:25.573Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/23/?accion=aumentar - time: 2023-09-05T00:59:56.235Z","timestamp":"2023-09-05T00:59:56.235Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El id de producto buscado no existe, cargue un nuevo id","timestamp":"2023-09-05T00:59:56.244Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:00:04.534Z","timestamp":"2023-09-05T01:00:04.534Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/11/?accion=aumentar - time: 2023-09-05T01:01:04.727Z","timestamp":"2023-09-05T01:01:04.727Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:01:14.333Z","timestamp":"2023-09-05T01:01:14.333Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T01:18:56.197Z","timestamp":"2023-09-05T01:18:56.197Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T01:18:56.261Z","timestamp":"2023-09-05T01:18:56.261Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:19:21.392Z","timestamp":"2023-09-05T01:19:21.392Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:19:21.474Z","timestamp":"2023-09-05T01:19:21.474Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:25:38.069Z","timestamp":"2023-09-05T01:25:38.069Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:25:38.141Z","timestamp":"2023-09-05T01:25:38.141Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:28:21.294Z","timestamp":"2023-09-05T01:28:21.295Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:28:21.387Z","timestamp":"2023-09-05T01:28:21.387Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T01:29:36.910Z","timestamp":"2023-09-05T01:29:36.911Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T01:29:36.930Z","timestamp":"2023-09-05T01:29:36.930Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:29:40.546Z","timestamp":"2023-09-05T01:29:40.546Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:29:40.628Z","timestamp":"2023-09-05T01:29:40.628Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T01:30:39.752Z","timestamp":"2023-09-05T01:30:39.752Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T01:30:39.772Z","timestamp":"2023-09-05T01:30:39.772Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:30:46.321Z","timestamp":"2023-09-05T01:30:46.321Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:30:46.404Z","timestamp":"2023-09-05T01:30:46.404Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:32:37.464Z","timestamp":"2023-09-05T01:32:37.465Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:32:37.557Z","timestamp":"2023-09-05T01:32:37.557Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T01:32:48.971Z","timestamp":"2023-09-05T01:32:48.971Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T01:32:48.994Z","timestamp":"2023-09-05T01:32:48.994Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:33:04.514Z","timestamp":"2023-09-05T01:33:04.514Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:33:04.598Z","timestamp":"2023-09-05T01:33:04.598Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:36:15.877Z","timestamp":"2023-09-05T01:36:15.878Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:36:15.959Z","timestamp":"2023-09-05T01:36:15.959Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/11/?accion=aumentar - time: 2023-09-05T01:36:19.114Z","timestamp":"2023-09-05T01:36:19.114Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T01:36:23.701Z","timestamp":"2023-09-05T01:36:23.701Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T01:36:27.145Z","timestamp":"2023-09-05T01:36:27.145Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:36:30.111Z","timestamp":"2023-09-05T01:36:30.111Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:37:37.377Z","timestamp":"2023-09-05T01:37:37.377Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:38:37.583Z","timestamp":"2023-09-05T01:38:37.583Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:38:48.177Z","timestamp":"2023-09-05T01:38:48.177Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:38:51.620Z","timestamp":"2023-09-05T01:38:51.620Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:38:59.219Z","timestamp":"2023-09-05T01:38:59.219Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:39:03.557Z","timestamp":"2023-09-05T01:39:03.557Z"}
+{"level":"info","message":"Method: DELETE, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:39:11.956Z","timestamp":"2023-09-05T01:39:11.956Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:39:13.342Z","timestamp":"2023-09-05T01:39:13.342Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:39:15.256Z","timestamp":"2023-09-05T01:39:15.256Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T01:39:19.487Z","timestamp":"2023-09-05T01:39:19.487Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T01:39:22.050Z","timestamp":"2023-09-05T01:39:22.050Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:39:24.411Z","timestamp":"2023-09-05T01:39:24.411Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T01:39:59.367Z","timestamp":"2023-09-05T01:39:59.367Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:39:59.455Z","timestamp":"2023-09-05T01:39:59.455Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:40:25.102Z","timestamp":"2023-09-05T01:40:25.102Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:40:27.605Z","timestamp":"2023-09-05T01:40:27.605Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:41:34.810Z","timestamp":"2023-09-05T01:41:34.811Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T01:44:57.766Z","timestamp":"2023-09-05T01:44:57.766Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:44:59.763Z","timestamp":"2023-09-05T01:44:59.763Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:45:13.872Z","timestamp":"2023-09-05T01:45:13.872Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:45:15.431Z","timestamp":"2023-09-05T01:45:15.431Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/5/?accion=aumentar - time: 2023-09-05T01:45:17.939Z","timestamp":"2023-09-05T01:45:17.939Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-05T01:45:17.952Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:45:20.988Z","timestamp":"2023-09-05T01:45:20.988Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:45:22.855Z","timestamp":"2023-09-05T01:45:22.855Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/11/?accion=aumentar - time: 2023-09-05T01:45:52.220Z","timestamp":"2023-09-05T01:45:52.220Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:45:54.683Z","timestamp":"2023-09-05T01:45:54.683Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:45:59.538Z","timestamp":"2023-09-05T01:45:59.538Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T01:46:03.231Z","timestamp":"2023-09-05T01:46:03.231Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T01:46:06.288Z","timestamp":"2023-09-05T01:46:06.288Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T01:46:11.330Z","timestamp":"2023-09-05T01:46:11.330Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:46:19.109Z","timestamp":"2023-09-05T01:46:19.109Z"}
+{"level":"info","message":"Method: DELETE, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:46:27.792Z","timestamp":"2023-09-05T01:46:27.792Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/1f45a121-b069-4aa9-ab5e-01d9d5641fe1 - time: 2023-09-05T01:46:29.319Z","timestamp":"2023-09-05T01:46:29.319Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T01:46:30.737Z","timestamp":"2023-09-05T01:46:30.737Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T12:49:12.214Z","timestamp":"2023-09-05T12:49:12.214Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T12:51:36.226Z","timestamp":"2023-09-05T12:51:36.226Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T12:51:36.557Z","timestamp":"2023-09-05T12:51:36.557Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T12:51:36.927Z","timestamp":"2023-09-05T12:51:36.928Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T12:52:51.513Z","timestamp":"2023-09-05T12:52:51.513Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T12:52:51.699Z","timestamp":"2023-09-05T12:52:51.699Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T12:52:54.721Z","timestamp":"2023-09-05T12:52:54.721Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T12:52:54.896Z","timestamp":"2023-09-05T12:52:54.896Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=4&limit=5&sort=&category=&id= - time: 2023-09-05T12:52:59.007Z","timestamp":"2023-09-05T12:52:59.007Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T12:53:01.923Z","timestamp":"2023-09-05T12:53:01.923Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T12:53:02.059Z","timestamp":"2023-09-05T12:53:02.059Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=4&limit=5&sort=&category=&id= - time: 2023-09-05T12:53:07.424Z","timestamp":"2023-09-05T12:53:07.424Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T12:53:12.772Z","timestamp":"2023-09-05T12:53:12.772Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T12:53:16.588Z","timestamp":"2023-09-05T12:53:16.588Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T12:53:20.176Z","timestamp":"2023-09-05T12:53:20.176Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:37.538Z","timestamp":"2023-09-05T12:53:37.538Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:41.464Z","timestamp":"2023-09-05T12:53:41.464Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:45.391Z","timestamp":"2023-09-05T12:53:45.391Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:46.002Z","timestamp":"2023-09-05T12:53:46.002Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:46.225Z","timestamp":"2023-09-05T12:53:46.225Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:46.432Z","timestamp":"2023-09-05T12:53:46.432Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:53:46.664Z","timestamp":"2023-09-05T12:53:46.664Z"}
+{"level":"info","message":"Method: GET, url: /api/session/current - time: 2023-09-05T12:53:49.919Z","timestamp":"2023-09-05T12:53:49.919Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T12:53:53.528Z","timestamp":"2023-09-05T12:53:53.528Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T12:54:24.498Z","timestamp":"2023-09-05T12:54:24.498Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:54:29.490Z","timestamp":"2023-09-05T12:54:29.490Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:58:26.028Z","timestamp":"2023-09-05T12:58:26.029Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:58:28.135Z","timestamp":"2023-09-05T12:58:28.135Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:58:28.363Z","timestamp":"2023-09-05T12:58:28.363Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:58:28.718Z","timestamp":"2023-09-05T12:58:28.718Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:59:03.293Z","timestamp":"2023-09-05T12:59:03.293Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T12:59:05.262Z","timestamp":"2023-09-05T12:59:05.262Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:59:07.810Z","timestamp":"2023-09-05T12:59:07.810Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T12:59:36.908Z","timestamp":"2023-09-05T12:59:36.908Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T12:59:40.103Z","timestamp":"2023-09-05T12:59:40.103Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T13:00:34.405Z","timestamp":"2023-09-05T13:00:34.406Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/30/?accion=aumentar - time: 2023-09-05T13:00:36.865Z","timestamp":"2023-09-05T13:00:36.865Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/27/?accion=aumentar - time: 2023-09-05T13:00:42.331Z","timestamp":"2023-09-05T13:00:42.331Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/19/?accion=aumentar - time: 2023-09-05T13:00:47.025Z","timestamp":"2023-09-05T13:00:47.025Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: TypeError: Cannot read properties of undefined (reading 'toString')","timestamp":"2023-09-05T13:00:47.081Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:00:52.158Z","timestamp":"2023-09-05T13:00:52.158Z"}
+{"level":"info","message":"Method: DELETE, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:01:38.766Z","timestamp":"2023-09-05T13:01:38.766Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:01:41.168Z","timestamp":"2023-09-05T13:01:41.168Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:01:42.299Z","timestamp":"2023-09-05T13:01:42.299Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:19:14.885Z","timestamp":"2023-09-05T13:19:14.885Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:19:15.019Z","timestamp":"2023-09-05T13:19:15.019Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:19:36.932Z","timestamp":"2023-09-05T13:19:36.932Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:19:47.050Z","timestamp":"2023-09-05T13:19:47.050Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:19:53.493Z","timestamp":"2023-09-05T13:19:53.493Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:06.974Z","timestamp":"2023-09-05T13:20:06.974Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-05T13:20:07.048Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:14.438Z","timestamp":"2023-09-05T13:20:14.438Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:25.122Z","timestamp":"2023-09-05T13:20:25.122Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:33.174Z","timestamp":"2023-09-05T13:20:33.174Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:43.296Z","timestamp":"2023-09-05T13:20:43.296Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:20:50.833Z","timestamp":"2023-09-05T13:20:50.833Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:21:00.345Z","timestamp":"2023-09-05T13:21:00.345Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:21:09.580Z","timestamp":"2023-09-05T13:21:09.580Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:21:18.046Z","timestamp":"2023-09-05T13:21:18.046Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:21:28.266Z","timestamp":"2023-09-05T13:21:28.266Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:23:13.867Z","timestamp":"2023-09-05T13:23:13.867Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: Error: productManager: El codigo producto ya existe en la base de datos, asigne un codigo nuevo","timestamp":"2023-09-05T13:23:13.938Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:23:21.729Z","timestamp":"2023-09-05T13:23:21.729Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:23:28.589Z","timestamp":"2023-09-05T13:23:28.589Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:23:35.407Z","timestamp":"2023-09-05T13:23:35.407Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:24:00.971Z","timestamp":"2023-09-05T13:24:00.971Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:25:05.125Z","timestamp":"2023-09-05T13:25:05.125Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:25:12.684Z","timestamp":"2023-09-05T13:25:12.684Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:25:20.283Z","timestamp":"2023-09-05T13:25:20.284Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:25:32.005Z","timestamp":"2023-09-05T13:25:32.005Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:27:42.786Z","timestamp":"2023-09-05T13:27:42.786Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:27:42.804Z","timestamp":"2023-09-05T13:27:42.804Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:27:46.573Z","timestamp":"2023-09-05T13:27:46.573Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:27:46.702Z","timestamp":"2023-09-05T13:27:46.702Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:28:23.806Z","timestamp":"2023-09-05T13:28:23.806Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:28:34.105Z","timestamp":"2023-09-05T13:28:34.105Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:28:41.326Z","timestamp":"2023-09-05T13:28:41.326Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:28:48.495Z","timestamp":"2023-09-05T13:28:48.495Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:28:55.228Z","timestamp":"2023-09-05T13:28:55.228Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:30:42.278Z","timestamp":"2023-09-05T13:30:42.278Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:30:42.412Z","timestamp":"2023-09-05T13:30:42.412Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:31:06.164Z","timestamp":"2023-09-05T13:31:06.164Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:31:13.003Z","timestamp":"2023-09-05T13:31:13.003Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:31:19.315Z","timestamp":"2023-09-05T13:31:19.315Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:31:25.631Z","timestamp":"2023-09-05T13:31:25.631Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:31:35.528Z","timestamp":"2023-09-05T13:31:35.528Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:32:30.160Z","timestamp":"2023-09-05T13:32:30.160Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:32:59.115Z","timestamp":"2023-09-05T13:32:59.115Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:32:59.533Z","timestamp":"2023-09-05T13:32:59.533Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:06.818Z","timestamp":"2023-09-05T13:33:06.818Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T13:33:12.345Z","timestamp":"2023-09-05T13:33:12.345Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:33:15.696Z","timestamp":"2023-09-05T13:33:15.696Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:33:18.628Z","timestamp":"2023-09-05T13:33:18.628Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:23.617Z","timestamp":"2023-09-05T13:33:23.617Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:26.629Z","timestamp":"2023-09-05T13:33:26.629Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=4&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:29.162Z","timestamp":"2023-09-05T13:33:29.162Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:31.408Z","timestamp":"2023-09-05T13:33:31.408Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=6&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:33.827Z","timestamp":"2023-09-05T13:33:33.827Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:43.524Z","timestamp":"2023-09-05T13:33:43.524Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=4&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:46.536Z","timestamp":"2023-09-05T13:33:46.536Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:49.593Z","timestamp":"2023-09-05T13:33:49.593Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:52.260Z","timestamp":"2023-09-05T13:33:52.260Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=1&limit=5&sort=&category=&id= - time: 2023-09-05T13:33:55.060Z","timestamp":"2023-09-05T13:33:55.060Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=2&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:01.680Z","timestamp":"2023-09-05T13:34:01.680Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=3&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:04.459Z","timestamp":"2023-09-05T13:34:04.459Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=4&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:10.193Z","timestamp":"2023-09-05T13:34:10.193Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:13.674Z","timestamp":"2023-09-05T13:34:13.674Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:19.610Z","timestamp":"2023-09-05T13:34:19.610Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=6&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:24.066Z","timestamp":"2023-09-05T13:34:24.066Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=6&limit=15&sort=&category=&id= - time: 2023-09-05T13:34:38.317Z","timestamp":"2023-09-05T13:34:38.317Z"}
+{"level":"info","message":"Method: GET, url: /products/?page=5&limit=5&sort=&category=&id= - time: 2023-09-05T13:34:48.045Z","timestamp":"2023-09-05T13:34:48.045Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/12/?accion=aumentar - time: 2023-09-05T13:34:56.394Z","timestamp":"2023-09-05T13:34:56.394Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:34:59.143Z","timestamp":"2023-09-05T13:34:59.144Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:35:27.982Z","timestamp":"2023-09-05T13:35:27.982Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:35:35.407Z","timestamp":"2023-09-05T13:35:35.407Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:35:47.730Z","timestamp":"2023-09-05T13:35:47.730Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:35:53.569Z","timestamp":"2023-09-05T13:35:53.569Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:35:53.583Z","timestamp":"2023-09-05T13:35:53.583Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:35:57.163Z","timestamp":"2023-09-05T13:35:57.163Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:35:57.296Z","timestamp":"2023-09-05T13:35:57.296Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:36:27.586Z","timestamp":"2023-09-05T13:36:27.586Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:36:35.754Z","timestamp":"2023-09-05T13:36:35.754Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:36:43.485Z","timestamp":"2023-09-05T13:36:43.485Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:36:43.505Z","timestamp":"2023-09-05T13:36:43.505Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:36:45.944Z","timestamp":"2023-09-05T13:36:45.944Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:36:46.066Z","timestamp":"2023-09-05T13:36:46.066Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T13:37:15.869Z","timestamp":"2023-09-05T13:37:15.869Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:37:32.211Z","timestamp":"2023-09-05T13:37:32.211Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:37:32.217Z","timestamp":"2023-09-05T13:37:32.217Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:37:46.252Z","timestamp":"2023-09-05T13:37:46.252Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:37:46.364Z","timestamp":"2023-09-05T13:37:46.364Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:37:57.002Z","timestamp":"2023-09-05T13:37:57.002Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T13:38:00.055Z","timestamp":"2023-09-05T13:38:00.055Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T13:38:02.815Z","timestamp":"2023-09-05T13:38:02.815Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:38:05.946Z","timestamp":"2023-09-05T13:38:05.946Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:38:06.080Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:38:13.651Z","timestamp":"2023-09-05T13:38:13.651Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:38:13.771Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:41:33.179Z","timestamp":"2023-09-05T13:41:33.180Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:41:36.332Z","timestamp":"2023-09-05T13:41:36.332Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T13:41:41.858Z","timestamp":"2023-09-05T13:41:41.858Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T13:41:41.878Z","timestamp":"2023-09-05T13:41:41.878Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:41:45.686Z","timestamp":"2023-09-05T13:41:45.686Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:41:45.854Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:42:29.956Z","timestamp":"2023-09-05T13:42:29.956Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:42:35.522Z","timestamp":"2023-09-05T13:42:35.522Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:42:35.724Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:43:17.971Z","timestamp":"2023-09-05T13:43:17.971Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:43:17.978Z","timestamp":"2023-09-05T13:43:17.978Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:43:19.768Z","timestamp":"2023-09-05T13:43:19.768Z"}
+{"level":"info","message":"Method: GET, url: /api/session/github - time: 2023-09-05T13:43:25.626Z","timestamp":"2023-09-05T13:43:25.626Z"}
+{"level":"info","message":"Method: GET, url: /api/session/github/callback?code=c3f184ca09c77c59e5bb - time: 2023-09-05T13:43:26.388Z","timestamp":"2023-09-05T13:43:26.388Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:43:27.211Z","timestamp":"2023-09-05T13:43:27.211Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6a6d5be219551d6c23d84 - time: 2023-09-05T13:43:29.970Z","timestamp":"2023-09-05T13:43:29.970Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T13:43:35.057Z","timestamp":"2023-09-05T13:43:35.057Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6a6d5be219551d6c23d84 - time: 2023-09-05T13:43:37.055Z","timestamp":"2023-09-05T13:43:37.055Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:43:39.200Z","timestamp":"2023-09-05T13:43:39.200Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:43:41.403Z","timestamp":"2023-09-05T13:43:41.403Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:43:41.407Z","timestamp":"2023-09-05T13:43:41.407Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:44:01.773Z","timestamp":"2023-09-05T13:44:01.773Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:44:01.994Z","timestamp":"2023-09-05T13:44:01.994Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:44:06.275Z","timestamp":"2023-09-05T13:44:06.275Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:44:06.389Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:44:19.112Z","timestamp":"2023-09-05T13:44:19.112Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:44:19.242Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:44:36.591Z","timestamp":"2023-09-05T13:44:36.591Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:44:36.763Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:44:39.819Z","timestamp":"2023-09-05T13:44:39.819Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:44:39.932Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:45:36.366Z","timestamp":"2023-09-05T13:45:36.367Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:45:36.488Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:47:24.309Z","timestamp":"2023-09-05T13:47:24.309Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:47:24.314Z","timestamp":"2023-09-05T13:47:24.314Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:47:32.532Z","timestamp":"2023-09-05T13:47:32.532Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:47:32.681Z","timestamp":"2023-09-05T13:47:32.681Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:36.482Z","timestamp":"2023-09-05T13:47:36.482Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:47:39.684Z","timestamp":"2023-09-05T13:47:39.684Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/3/?accion=aumentar - time: 2023-09-05T13:47:42.274Z","timestamp":"2023-09-05T13:47:42.274Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: products.0.stock: Path `stock` is required., products.1.stock: Path `stock` is required.","timestamp":"2023-09-05T13:47:42.547Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:44.155Z","timestamp":"2023-09-05T13:47:44.155Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:47:45.929Z","timestamp":"2023-09-05T13:47:45.929Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: products.0.stock: Path `stock` is required., products.1.stock: Path `stock` is required.","timestamp":"2023-09-05T13:47:46.158Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:47.412Z","timestamp":"2023-09-05T13:47:47.412Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T13:47:49.886Z","timestamp":"2023-09-05T13:47:49.886Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: products.0.stock: Path `stock` is required., products.1.stock: Path `stock` is required.","timestamp":"2023-09-05T13:47:50.118Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:52.805Z","timestamp":"2023-09-05T13:47:52.805Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:47:54.792Z","timestamp":"2023-09-05T13:47:54.792Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:47:54.823Z","timestamp":"2023-09-05T13:47:54.823Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: products.0.stock: Path `stock` is required., products.1.stock: Path `stock` is required.","timestamp":"2023-09-05T13:47:54.998Z"}
+{"level":"error","message":"DB ERROR - Error al procesar la petición POST: ValidationError: products.0.stock: Path `stock` is required., products.1.stock: Path `stock` is required.","timestamp":"2023-09-05T13:47:55.034Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:57.260Z","timestamp":"2023-09-05T13:47:57.260Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:47:57.405Z","timestamp":"2023-09-05T13:47:57.405Z"}
+{"level":"info","message":"Method: DELETE, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:48:09.313Z","timestamp":"2023-09-05T13:48:09.314Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:48:10.532Z","timestamp":"2023-09-05T13:48:10.532Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:48:11.652Z","timestamp":"2023-09-05T13:48:11.652Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:48:13.687Z","timestamp":"2023-09-05T13:48:13.687Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:48:16.783Z","timestamp":"2023-09-05T13:48:16.783Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:48:18.351Z","timestamp":"2023-09-05T13:48:18.351Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:48:19.864Z","timestamp":"2023-09-05T13:48:19.864Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T13:48:21.358Z","timestamp":"2023-09-05T13:48:21.358Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:48:23.215Z","timestamp":"2023-09-05T13:48:23.215Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:48:25.749Z","timestamp":"2023-09-05T13:48:25.749Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:48:28.345Z","timestamp":"2023-09-05T13:48:28.345Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:48:28.350Z","timestamp":"2023-09-05T13:48:28.350Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:50:34.075Z","timestamp":"2023-09-05T13:50:34.075Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:50:34.216Z","timestamp":"2023-09-05T13:50:34.216Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64daba2cc434655ddc22c80c - time: 2023-09-05T13:50:36.317Z","timestamp":"2023-09-05T13:50:36.317Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:50:37.687Z","timestamp":"2023-09-05T13:50:37.687Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T13:50:43.072Z","timestamp":"2023-09-05T13:50:43.072Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:50:43.078Z","timestamp":"2023-09-05T13:50:43.078Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:50:58.221Z","timestamp":"2023-09-05T13:50:58.221Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:50:58.335Z","timestamp":"2023-09-05T13:50:58.335Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:51:01.275Z","timestamp":"2023-09-05T13:51:01.275Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:51:01.386Z"}
+{"level":"info","message":"Method: GET, url: /profile - time: 2023-09-05T13:52:36.646Z","timestamp":"2023-09-05T13:52:36.646Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:52:47.409Z","timestamp":"2023-09-05T13:52:47.409Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:52:47.525Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:52:49.884Z","timestamp":"2023-09-05T13:52:49.884Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:52:49.989Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:52:52.441Z","timestamp":"2023-09-05T13:52:52.441Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:52:52.548Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:53:11.173Z","timestamp":"2023-09-05T13:53:11.173Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:53:11.306Z","timestamp":"2023-09-05T13:53:11.306Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:53:32.193Z","timestamp":"2023-09-05T13:53:32.193Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:53:32.304Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:55:57.487Z","timestamp":"2023-09-05T13:55:57.488Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:55:57.641Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:57:13.056Z","timestamp":"2023-09-05T13:57:13.056Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:57:13.253Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:57:35.372Z","timestamp":"2023-09-05T13:57:35.373Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:57:35.527Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T13:58:36.521Z","timestamp":"2023-09-05T13:58:36.521Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T13:58:55.859Z","timestamp":"2023-09-05T13:58:55.859Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:58:56.016Z","timestamp":"2023-09-05T13:58:56.016Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:59:02.200Z","timestamp":"2023-09-05T13:59:02.200Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:59:14.586Z","timestamp":"2023-09-05T13:59:14.586Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:59:14.702Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T13:59:23.556Z","timestamp":"2023-09-05T13:59:23.556Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T13:59:25.722Z","timestamp":"2023-09-05T13:59:25.722Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T13:59:28.941Z","timestamp":"2023-09-05T13:59:28.942Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T13:59:55.987Z","timestamp":"2023-09-05T13:59:55.987Z"}
+{"level":"error","message":"CONTROLLER ERROR - No se pudo obtener cart en la base de datos TypeError: Cannot read properties of null (reading 'price')","timestamp":"2023-09-05T13:59:56.128Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64f3960667b0646988d42f9b - time: 2023-09-05T14:01:35.259Z","timestamp":"2023-09-05T14:01:35.260Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:01:38.131Z","timestamp":"2023-09-05T14:01:38.131Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:01:40.213Z","timestamp":"2023-09-05T14:01:40.213Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:01:42.315Z","timestamp":"2023-09-05T14:01:42.315Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:01:44.851Z","timestamp":"2023-09-05T14:01:44.851Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:01:46.624Z","timestamp":"2023-09-05T14:01:46.624Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T14:01:57.380Z","timestamp":"2023-09-05T14:01:57.380Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:01:58.839Z","timestamp":"2023-09-05T14:01:58.839Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:02:05.671Z","timestamp":"2023-09-05T14:02:05.671Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:02:11.509Z","timestamp":"2023-09-05T14:02:11.509Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:02:12.966Z","timestamp":"2023-09-05T14:02:12.967Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:08:16.156Z","timestamp":"2023-09-05T14:08:16.156Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:10:49.799Z","timestamp":"2023-09-05T14:10:49.799Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T14:10:58.780Z","timestamp":"2023-09-05T14:10:58.780Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:11:02.193Z","timestamp":"2023-09-05T14:11:02.193Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:11:05.036Z","timestamp":"2023-09-05T14:11:05.036Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:11:06.683Z","timestamp":"2023-09-05T14:11:06.683Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:11:08.217Z","timestamp":"2023-09-05T14:11:08.217Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T14:11:09.467Z","timestamp":"2023-09-05T14:11:09.467Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64dab5f1c45a31639586fbcc - time: 2023-09-05T14:11:10.797Z","timestamp":"2023-09-05T14:11:10.797Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:11:14.009Z","timestamp":"2023-09-05T14:11:14.009Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T14:11:20.636Z","timestamp":"2023-09-05T14:11:20.636Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T14:11:51.247Z","timestamp":"2023-09-05T14:11:51.247Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:11:51.393Z","timestamp":"2023-09-05T14:11:51.393Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:12:07.126Z","timestamp":"2023-09-05T14:12:07.126Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/64d6918281b7b7f0b2d9369c/purchase - time: 2023-09-05T14:12:08.898Z","timestamp":"2023-09-05T14:12:08.898Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:12:10.845Z","timestamp":"2023-09-05T14:12:10.845Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:12:14.727Z","timestamp":"2023-09-05T14:12:14.727Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T14:12:19.519Z","timestamp":"2023-09-05T14:12:19.519Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T14:12:23.223Z","timestamp":"2023-09-05T14:12:23.223Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/5/?accion=aumentar - time: 2023-09-05T14:12:25.991Z","timestamp":"2023-09-05T14:12:25.991Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:12:28.318Z","timestamp":"2023-09-05T14:12:28.318Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:12:30.752Z","timestamp":"2023-09-05T14:12:30.752Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:16:19.588Z","timestamp":"2023-09-05T14:16:19.588Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:16:21.300Z","timestamp":"2023-09-05T14:16:21.300Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:16:23.451Z","timestamp":"2023-09-05T14:16:23.451Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:16:26.281Z","timestamp":"2023-09-05T14:16:26.281Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/5/?accion=aumentar - time: 2023-09-05T14:16:32.098Z","timestamp":"2023-09-05T14:16:32.098Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/4/?accion=aumentar - time: 2023-09-05T14:16:38.298Z","timestamp":"2023-09-05T14:16:38.298Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:16:41.664Z","timestamp":"2023-09-05T14:16:41.664Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/2/?accion=aumentar - time: 2023-09-05T14:16:44.487Z","timestamp":"2023-09-05T14:16:44.487Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:16:47.167Z","timestamp":"2023-09-05T14:16:47.167Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:16:52.442Z","timestamp":"2023-09-05T14:16:52.442Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:16:54.450Z","timestamp":"2023-09-05T14:16:54.450Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:17:51.110Z","timestamp":"2023-09-05T14:17:51.110Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/1/?accion=aumentar - time: 2023-09-05T14:17:54.259Z","timestamp":"2023-09-05T14:17:54.259Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:18:16.597Z","timestamp":"2023-09-05T14:18:16.597Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/5/?accion=aumentar - time: 2023-09-05T14:18:18.986Z","timestamp":"2023-09-05T14:18:18.986Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:18:22.801Z","timestamp":"2023-09-05T14:18:22.801Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:18:24.296Z","timestamp":"2023-09-05T14:18:24.296Z"}
+{"level":"info","message":"Method: POST, url: /api/session/login - time: 2023-09-05T14:29:48.017Z","timestamp":"2023-09-05T14:29:48.017Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:29:48.169Z","timestamp":"2023-09-05T14:29:48.169Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T14:30:12.191Z","timestamp":"2023-09-05T14:30:12.191Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T14:30:19.697Z","timestamp":"2023-09-05T14:30:19.697Z"}
+{"level":"info","message":"Method: POST, url: /api/products/ - time: 2023-09-05T14:30:28.056Z","timestamp":"2023-09-05T14:30:28.056Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:30:45.401Z","timestamp":"2023-09-05T14:30:45.401Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:31:19.089Z","timestamp":"2023-09-05T14:31:19.089Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/8/?accion=aumentar - time: 2023-09-05T14:31:23.417Z","timestamp":"2023-09-05T14:31:23.418Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/5/?accion=aumentar - time: 2023-09-05T14:31:26.696Z","timestamp":"2023-09-05T14:31:26.696Z"}
+{"level":"info","message":"Method: POST, url: /api/carts/6/?accion=aumentar - time: 2023-09-05T14:31:30.297Z","timestamp":"2023-09-05T14:31:30.297Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:31:35.977Z","timestamp":"2023-09-05T14:31:35.977Z"}
+{"level":"info","message":"Method: GET, url: /products - time: 2023-09-05T14:31:38.955Z","timestamp":"2023-09-05T14:31:38.956Z"}
+{"level":"info","message":"Method: GET, url: /api/session/logout - time: 2023-09-05T14:31:41.025Z","timestamp":"2023-09-05T14:31:41.025Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T14:31:41.034Z","timestamp":"2023-09-05T14:31:41.034Z"}
+{"level":"info","message":"Method: GET, url: /api/carts/64d6918281b7b7f0b2d9369c - time: 2023-09-05T14:48:42.879Z","timestamp":"2023-09-05T14:48:42.879Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T14:48:44.066Z","timestamp":"2023-09-05T14:48:44.066Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:13:30.062Z","timestamp":"2023-09-05T15:13:30.062Z"}
+{"level":"info","message":"Method: GET, url: /favicon.ico - time: 2023-09-05T15:13:47.989Z","timestamp":"2023-09-05T15:13:47.989Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:13:51.683Z","timestamp":"2023-09-05T15:13:51.683Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-05T15:13:55.539Z","timestamp":"2023-09-05T15:13:55.539Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-05T15:13:59.327Z","timestamp":"2023-09-05T15:13:59.327Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:14:04.316Z","timestamp":"2023-09-05T15:14:04.316Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM5MjY4MzksImV4cCI6MTY5MzkyNzQzOX0.nBDrtFGlAO2yJIYMnvUzRoaGOaRBsMhYBkr-JjA6syo - time: 2023-09-05T15:14:17.649Z","timestamp":"2023-09-05T15:14:17.649Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:14:27.001Z","timestamp":"2023-09-05T15:14:27.001Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-05T15:14:27.195Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-05T15:14:31.396Z","timestamp":"2023-09-05T15:14:31.396Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:14:38.949Z","timestamp":"2023-09-05T15:14:38.949Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:14:41.862Z","timestamp":"2023-09-05T15:14:41.862Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-05T15:17:22.883Z","timestamp":"2023-09-05T15:17:22.884Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-05T15:17:27.985Z","timestamp":"2023-09-05T15:17:27.985Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-05T15:17:27.988Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:17:58.890Z","timestamp":"2023-09-05T15:17:58.890Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-05T15:18:02.077Z","timestamp":"2023-09-05T15:18:02.077Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-05T15:18:06.110Z","timestamp":"2023-09-05T15:18:06.111Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - El correo electrónico proporcionado no existe registrado en la Base de Datos.","timestamp":"2023-09-05T15:18:06.113Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-05T15:18:10.235Z","timestamp":"2023-09-05T15:18:10.235Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:18:33.989Z","timestamp":"2023-09-05T15:18:33.989Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-05T15:18:37.704Z","timestamp":"2023-09-05T15:18:37.704Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-05T15:19:11.898Z","timestamp":"2023-09-05T15:19:11.898Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-05T15:19:13.425Z","timestamp":"2023-09-05T15:19:13.425Z"}
+{"level":"error","message":"DB ERROR - Error en el registro de usuario: Error: El correo electrónico ya está registrado","timestamp":"2023-09-05T15:19:13.492Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-05T15:19:19.338Z","timestamp":"2023-09-05T15:19:19.338Z"}
+{"level":"info","message":"Method: GET, url: /register - time: 2023-09-05T15:19:22.274Z","timestamp":"2023-09-05T15:19:22.274Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:19:23.743Z","timestamp":"2023-09-05T15:19:23.743Z"}
+{"level":"info","message":"Method: GET, url: /emailsendrecover - time: 2023-09-05T15:19:27.183Z","timestamp":"2023-09-05T15:19:27.183Z"}
+{"level":"info","message":"Method: POST, url: /api/session/emailrecover - time: 2023-09-05T15:19:32.423Z","timestamp":"2023-09-05T15:19:32.423Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:19:36.187Z","timestamp":"2023-09-05T15:19:36.187Z"}
+{"level":"info","message":"Method: GET, url: /recover?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImN2LnRlYy5nZXN0eWEwMUBnbWFpbC5jb20iLCJpYXQiOjE2OTM5MjcxNzIsImV4cCI6MTY5MzkyNzc3Mn0.60w7oCOV83u5ENhxX8-XRZmlJzK9GZyfcygplSvyTZc - time: 2023-09-05T15:19:44.436Z","timestamp":"2023-09-05T15:19:44.436Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:19:52.793Z","timestamp":"2023-09-05T15:19:52.793Z"}
+{"level":"warning","message":"INVALID PARAMS ERROR - La nueva contraseña debe ser diferente a la anterior","timestamp":"2023-09-05T15:19:52.910Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:20:00.976Z","timestamp":"2023-09-05T15:20:00.976Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:20:02.537Z","timestamp":"2023-09-05T15:20:02.537Z"}
+{"level":"info","message":"Method: POST, url: /api/session/recover-psw - time: 2023-09-05T15:20:34.142Z","timestamp":"2023-09-05T15:20:34.142Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:20:34.274Z","timestamp":"2023-09-05T15:20:34.274Z"}
+{"level":"info","message":"Method: POST, url: /api/session/register - time: 2023-09-05T15:22:15.071Z","timestamp":"2023-09-05T15:22:15.071Z"}
+{"level":"info","message":"Method: GET, url: /login - time: 2023-09-05T15:22:15.162Z","timestamp":"2023-09-05T15:22:15.162Z"}
