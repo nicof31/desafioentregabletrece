@@ -39,7 +39,7 @@ const passportCall = (strategy) => {
 
 const generateRecoveryToken = (email) => {
     try {
-        const recoveryToken = Jwt.sign({ email }, SECRET_JWT, { expiresIn: "10m" });
+        const recoveryToken = Jwt.sign({ email }, SECRET_JWT, { expiresIn: "1h" });
         return recoveryToken;
     } catch (error) {
         console.error(`Error al generar el token de recuperación: ${error}`);
